@@ -1,0 +1,1965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test ident="">
+     <score/>
+     <minscore/>
+     <comment>3PA546</comment>
+     <section ident="2" show_results="yes" showrightanswers="yes" terms_enabled="no">
+          <score>33</score>
+          <minscore>60</minscore>
+          <title>Opakování</title>
+          <comment/>
+          <maxattempts>1</maxattempts>
+          <timelimit>0</timelimit>
+          <question finaltest="false" ident="3" type="MofN">
+               <title>Jaké může být začlenění personálního útvaru v organizační struktuře velké firmy?</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="4">
+                         <title>maticové uspořádání</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="5" right="yes">
+                         <score>1</score>
+                         <title>štábní útvar generálního ředitele</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="6" right="yes">
+                         <score>1</score>
+                         <title>štábní útvar některého z výkonných ředitelů</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="7" right="yes">
+                         <score>1</score>
+                         <title>útvar na stejné úrovni řízení jako ostatní funkční útvary</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="8" type="MofN">
+               <title>Manažer na nejnižší úrovni řízení (lower management) nese v řadě velkých firem odpovědnost za výkon určitých personálních činností. Které z následujících nejsou na něho delegovány:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="9" right="yes">
+                         <score>1</score>
+                         <title>tvorba personální strategie</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="10" right="yes">
+                         <score>1</score>
+                         <title>personální plánování</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="11">
+                         <title>analýza práce a vytváření pracovních úkolů,</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="12">
+                         <title>získávání a výběr,</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="13">
+                         <title>přijímání a orientace</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="14">
+                         <title>hodnocení zaměstnance</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="15">
+                         <title>vzdělávání a rozvoj</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="16">
+                         <title>odměňování</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="17" right="yes">
+                         <score>1</score>
+                         <title>kolektivní vyjednávání,</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="18">
+                         <title>správa personálního informačního systému</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="19" right="yes">
+                         <score>1</score>
+                         <title>personální controlling.</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="20" type="MofN">
+               <title>Obsazuje-li firma pracovní místa manuálních zaměstnanců, lze jí doporučit, aby je získala na základě:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="21" right="yes">
+                         <score>1</score>
+                         <title>doporučení zaměstnancem</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="22" right="yes">
+                         <score>1</score>
+                         <title>spolupráce s úřadem práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="23" right="yes">
+                         <score>1</score>
+                         <title>inzerce v lokálních médiích</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="24" right="yes">
+                         <score>1</score>
+                         <title>spolupráce s personálními agenturami zprostředkujícími dočasné zaměstnance</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="25">
+                         <title>spolupráce s vyhledávacími a headhuntingovými společnostmi</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="26">
+                         <title>on-line inzerce</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="27" type="MofN">
+               <title>Jaká metoda výběru je vždy uplatněna při hodnocení uchazečů o zaměstnání, a to i v případě firmy do 10 zaměstnanců:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="28">
+                         <title>hraní rolí</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="29" right="yes">
+                         <score>2</score>
+                         <title>pohovor</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="30">
+                         <title>prezentace</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="31">
+                         <title>analýza osobního dotazníku</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="32">
+                         <title>testování</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="33">
+                         <title>analýza motivačního dopisu</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="34" type="MofN">
+               <title>Jaké konkrétní ukazatele lze použít k hodnocení účinnosti získávání a výběru?</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="35" right="yes">
+                         <score>1</score>
+                         <title>počet došlých žádostí o zaměstnání na inzerovanou nabídku práce </title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="36" right="yes">
+                         <score>1</score>
+                         <title>počet pozvaných uchazečů k pohovoru  z celkového počtu uchazečů</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="37">
+                         <title>počet uchazečů, kteří se dostaví k pohovoru, z celkového počtu uchazečů</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="38">
+                         <title>počet uchazečů, kteří splňují všechna kritéria</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="40" right="yes">
+                         <score>1</score>
+                         <title>počet nových zaměstnanců, kteří odcházejí během zkušební doby, k celkovému počtu nově přijatých </title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="41" right="yes">
+                         <score>1</score>
+                         <title>počet zaměstnanců, jejichž pracovní poměr trvá 1 rok (2 roky) od přijetí, k celkovému počtu přijatých </title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="42" right="yes">
+                         <score>1</score>
+                         <title>hodnocení výkonu a chování nových zaměstnanců</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="43" type="MofN">
+               <title>Co je obsahem adaptace nového zaměstnance?</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="44">
+                         <title>snížení fluktuace</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="45" right="yes">
+                         <score>1</score>
+                         <title>zvládnutí pracovních úkolů</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="46" right="yes">
+                         <score>1</score>
+                         <title>přizpůsobení se firemní kultuře</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="47" right="yes">
+                         <score>1</score>
+                         <title>začlenění se do sociálních vztahů</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="48">
+                         <title>návrh a podpis pracovní smlouvy.</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="50" type="MofN">
+               <title>Jaké metody vzdělávání na pracovišti lze doporučit u nižších administrativních zaměstnanců z následujícího výčtu jako nejvhodnější:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="51" right="yes">
+                         <score>1</score>
+                         <title>instruktáž při výkonu práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="52" right="yes">
+                         <score>1</score>
+                         <title>asistování</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="53">
+                         <title>práce na projektu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="54" right="yes">
+                         <score>1</score>
+                         <title>rotace práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="55" right="yes">
+                         <score>1</score>
+                         <title>rozšiřování a obohacování pracovních úkolů</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="56">
+                         <title>coaching</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="57">
+                         <title>mentoring</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="58">
+                         <title>přednáška</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="59">
+                         <title>seminář</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="60">
+                         <title>případová studie</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="61">
+                         <title>simulace</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="62">
+                         <title>hraní rolí</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="63">
+                         <title>assessment centre</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="64" type="MofN">
+               <title>Jaké metody vzdělávání středního managementu lze doporučit z následujícího výčtu jako nejvhodnější:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="65">
+                         <title>instruktáž při výkonu práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="66">
+                         <title>asistování</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="67" right="yes">
+                         <score>1</score>
+                         <title>práce na projektu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="68" right="yes">
+                         <score>1</score>
+                         <title>rotace práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="69" right="yes">
+                         <score>1</score>
+                         <title>rozšiřování a obohacování pracovních úkolů</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="70">
+                         <title>coaching</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="71">
+                         <title>mentoring</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="72">
+                         <title>counseling</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="73">
+                         <title>přednáška</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="74">
+                         <title>seminář</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="75">
+                         <title>demonstrování</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="76">
+                         <title>případová studie</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="77">
+                         <title>brainstorming</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="78">
+                         <title>simulace</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="79">
+                         <title>hraní rolí</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="82">
+                         <title>assessment centre</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="83">
+                         <title>outdoor training</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="84" type="MofN">
+               <title>Firma zavádí hodnocení zaměstnance s cílem:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="86">
+                         <title>provést outsourcing vedlejších pracovních činností</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="87" right="yes">
+                         <score>1</score>
+                         <title>zlepšit výkon a pracovní chování zaměstnance</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="88" right="yes">
+                         <score>1</score>
+                         <title>poskytnout zaměstnanci zpětnou vazbu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="89" right="yes">
+                         <score>1</score>
+                         <title>motivovat zaměstnance k rozvoji</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="90">
+                         <title>racionalizovat organizační strukturu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="91">
+                         <title>provést re-design pracovních úkolů</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="85" type="MofN">
+               <title>360° zpětná vazba v hodnocení zaměstnance znamená:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="98">
+                         <title>hodnocení zaměstnance průběžně a periodicky, a to nejméně po uplynutí 360 dnů</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="99" right="yes">
+                         <score>2</score>
+                         <title>sebehodnocení a zároveň také hodnocení zaměstnance nadřízeným, spolupracovníky, podřízenými a zákazníky</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="100">
+                         <title>hodnocení zaměstnance vedoucím bezprostředního nadřízeného, spolupracovníky, podřízenými a zákazníky</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+     </section>
+     <section ident="49" show_results="yes" showrightanswers="yes" terms_enabled="no">
+          <score>20</score>
+          <minscore>60</minscore>
+          <title>Získávání</title>
+          <comment/>
+          <maxattempts>1</maxattempts>
+          <timelimit>0</timelimit>
+          <question finaltest="true" ident="80" type="1ofN">
+               <title>Cílem získávání pracovníků je:</title>
+               <comment/>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="81">
+                         <title>vytvářet pozitivní personální marketing firmy</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="92">
+                         <title>nabízet realistickou představu o práci</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="93" right="yes">
+                         <score>2</score>
+                         <title>identifikovat, přitáhnout a najmout pracovní sílu</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="94" type="MofN">
+               <title>Získávání pracovníků nevychází:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="95">
+                         <title>z personální strategie a popisu firemní kultury</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="96">
+                         <title>z analýzy práce a specifikace požadavků na pracovníka</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="97" right="yes">
+                         <score>2</score>
+                         <title>z národního plánu zaměstnanosti</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="101">
+                         <title>z plánovaného počtu a struktury pracovníků</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="102" type="MofN">
+               <title>Zaměstnavatel má při získávání pracovníků respektovat příslušná ustanovení:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="103">
+                         <title>zákona o mzdě</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="104">
+                         <title>zákona o kolektivním vyjednávání</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="105" right="yes">
+                         <score>1</score>
+                         <title>zákona o zaměstnanosti</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="106" right="yes">
+                         <score>1</score>
+                         <title>zákoníku práce</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="107" type="MofN">
+               <title>Která z metod získávání z vnějšího trhu práce je účinná a zároveň levná:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="108">
+                         <title>zprostředkování pomocí úřadu práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="109">
+                         <title>on-line získávání</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="110">
+                         <title>pomocí personální agentury</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="111" right="yes">
+                         <score>2</score>
+                         <title>doporučení zaměstnancem</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="112" type="MofN">
+               <title>Chce-li zaměstnavatel získávat pracovníky z vnitřního trhu práce, pak to vyžaduje:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="113">
+                         <title>zavést a rozvíjet programy orientace</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="114">
+                         <title>vytvořit a rozvíjet motivační program</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="115" right="yes">
+                         <score>2</score>
+                         <title>investovat do vzdělávání a rozvoje</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="119" type="MofN">
+               <title>Cílem výběru pracovníků je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="120">
+                         <title>identifikace zdrojů informací o uchazeči o zaměstnání</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="121" right="yes">
+                         <score>2</score>
+                         <title>vybrat na pracovní místo vhodného uchazeče</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="122">
+                         <title>rozhodnout se o způsobu najmutí nové pracovní síly</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="123" type="MofN">
+               <title>Analýza motivačního dopisu a životopisu uchazeče o zaměstnání slouží k tomu:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="124" right="yes">
+                         <score>2</score>
+                         <title>identifikovat uchazečovy předpoklady k výkonu práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="125">
+                         <title>identifikovat uchazečovy schopnosti a dovednosti</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="126">
+                         <title>identifikovat uchazečovu motivaci k práci</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="127" type="MofN">
+               <title>Závažným negativním signálem v životopisu uchazeče o práci je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="128" right="yes">
+                         <score>1</score>
+                         <title>nevysvětlená časová mezera ve výčtu pracovních aktivit</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="129">
+                         <title>rozsah životopisu a označení vykonávané práce pouze názvem pracovní funkce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="130" right="yes">
+                         <score>1</score>
+                         <title>častá změna druhu vykonávané práce a délka trvání pracovního poměru</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="131" type="MofN">
+               <title>Předností osobního dotazníku je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="132">
+                         <title>identifikace osobnostních charakteristik uchazeče o práci</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="133" right="yes">
+                         <score>2</score>
+                         <title>identifikace přesných a určitých údajů o uchazeči</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="134">
+                         <title>celkový rozsah daný omezeným počtem otázek</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="135" type="MofN">
+               <title>Výběr uchazeče o práci je vždy proveden pomocí:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="136">
+                         <title>testování</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="137">
+                         <title>assessment center</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="138" right="yes">
+                         <score>2</score>
+                         <title>pohovoru</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+     </section>
+     <section ident="142" show_results="yes" showrightanswers="yes" terms_enabled="no">
+          <score>10</score>
+          <minscore>60</minscore>
+          <title>Adaptace zaměstnanců</title>
+          <comment/>
+          <maxattempts>1</maxattempts>
+          <timelimit>0</timelimit>
+          <question finaltest="true" ident="143" type="MofN">
+               <title>Cílem řízené adaptace zaměstnanců je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="144">
+                         <title>zlepšit firemní kulturu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="145" right="yes">
+                         <score>2</score>
+                         <title>snížit fluktuaci nových zaměstnanců</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="146">
+                         <title>podpořit organizační rozvoj</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="147" type="MofN">
+               <title>Adaptace zaměstnance neznamená:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="148">
+                         <title>přizpůsobit se požadavkům práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="149">
+                         <title>přizpůsobit se sociálním vztahům v organizaci</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="150" right="yes">
+                         <score>2</score>
+                         <title>přizpůsobit se motivačnímu programu firmy</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="151" type="MofN">
+               <title>V programu orientace se stále větší význam přikládá:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="153" right="yes">
+                         <score>2</score>
+                         <title>poznání firemní kultury</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="152">
+                         <title>vůdcovství vrcholového managementu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="154">
+                         <title>komplexnosti orientačního balíčku</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="155" type="MofN">
+               <title>Úroveň adaptovanosti zaměstnance se posuzuje:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="156" right="yes">
+                         <score>2</score>
+                         <title>množstvím a kvalitou vykonané práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="157">
+                         <title>hodnotícím rozhovorem</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="158">
+                         <title>tzv. 360° zpětnou vazbou</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="159" type="MofN">
+               <title>Nejdůležitějším subjektem v procesu adaptace zaměstnance je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="160">
+                         <title>externí kouč</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="161">
+                         <title>personalista</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="162" right="yes">
+                         <score>2</score>
+                         <title>přímý nadřízený</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+     </section>
+     <section ident="164" show_results="" showrightanswers="yes" terms_enabled="no">
+          <score>10</score>
+          <minscore>60</minscore>
+          <title>Hodnocení zaměstnance</title>
+          <comment/>
+          <maxattempts>1</maxattempts>
+          <timelimit>0</timelimit>
+          <question finaltest="true" ident="165" type="MofN">
+               <title>Cílem hodnocení zaměstnance je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="166">
+                         <title>urychlit adaptaci na firemní kulturu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="167" right="yes">
+                         <score>1</score>
+                         <title>zlepšit pracovní výkon</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="168" right="yes">
+                         <score>1</score>
+                         <title>motivovat k profesnímu rozvoji</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="169">
+                         <title>doplnit údaje pro analýzu práce</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="170" type="MofN">
+               <title>Systematické hodnocení zaměstnance se provádí:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="171">
+                         <title>jednorázově podle situační potřeby</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="172">
+                         <title>podle plánu osobního rozvoje</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="173" right="yes">
+                         <score>2</score>
+                         <title>pravidelně podle určité zásady</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="175" type="MofN">
+               <title>Kritickým momentem v hodnocení zaměstnance je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="176" right="yes">
+                         <score>2</score>
+                         <title>vedení hodnotícího rozhovoru</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="177">
+                         <title>kontrola výsledků hodnocení</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="178">
+                         <title>postavení personálního útvaru</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="179" type="MofN">
+               <title>Hodnocení zaměstnance je motivačně účinné, pokud:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="180">
+                         <title>hodnotí osobnostní charakteristiky zaměstnance</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="181">
+                         <title>je spojeno s osobním ohodnocením</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="182" right="yes">
+                         <score>2</score>
+                         <title>hodnotí plnění dohodnutých cílů</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="183" type="MofN">
+               <title>Systematické hodnocení zaměstnance provádí:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="184">
+                         <title>personalista</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="185">
+                         <title>mentor</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="186" right="yes">
+                         <score>2</score>
+                         <title>přímý nadřízený</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+     </section>
+     <section ident="188" show_results="yes" showrightanswers="yes" terms_enabled="no">
+          <score>10</score>
+          <minscore>60</minscore>
+          <title>Vzdělávání a rozvoj</title>
+          <comment/>
+          <maxattempts>1</maxattempts>
+          <timelimit>0</timelimit>
+          <question finaltest="true" ident="189" type="MofN">
+               <title>Smyslem vzdělávání exekutivy je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="190">
+                         <title>poskytnout další zaměstnaneckou výhodu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="191" right="yes">
+                         <score>2</score>
+                         <title>investovat do organizačního rozvoje</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="192">
+                         <title>internacionalizovat firemní aktivity</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="193" type="MofN">
+               <title>Učení se akcí při vzdělávání exekutivy znamená:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="194">
+                         <title>simulace, např. hraní rolí</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="195">
+                         <title>koučování externími konzultanty</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="196" right="yes">
+                         <score>2</score>
+                         <title>týmové řešení projektů</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="197" type="MofN">
+               <title>Cílem elektronického vzdělávání je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="199" right="yes">
+                         <score>1</score>
+                         <title>snížit náklady na vzdělávání</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="198" right="yes">
+                         <score>1</score>
+                         <title>rychle a kamkoliv diseminovat znalosti</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="200">
+                         <title>nahradit tradiční formy vzdělávání</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="201" type="MofN">
+               <title>Kritickým bodem podnikového programu vzdělávání je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="203">
+                         <title>postoj managementu ke vzdělávání zaměstnanců</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="204" right="yes">
+                         <score>2</score>
+                         <title>hodnocení programu vzdělávání</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="205">
+                         <title>aplikace on-line vzdělávání</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="202" type="MofN">
+               <title>Hodnocení účinnosti programu vzdělávání lze provádět:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="206">
+                         <title>mírou fluktuace a pracovní neschopností účastníků vzdělávání</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="207">
+                         <title>dotazníkovým průzkumem o potřebě vzdělávání</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="208" right="yes">
+                         <score>2</score>
+                         <title>hodnocením změn v pracovním výkonu a chování</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+     </section>
+     <section ident="39" show_results="yes" showrightanswers="yes" terms_enabled="no">
+          <score>8</score>
+          <minscore>60</minscore>
+          <title>Odměnování</title>
+          <comment/>
+          <maxattempts>0</maxattempts>
+          <timelimit>0</timelimit>
+          <question finaltest="false" ident="116" type="MofN">
+               <title> Pro koho je ve firmě použitelná úkolová mzda?</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="117">
+                         <title>střední manažery</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="308">
+                         <title>nižší manažery</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="309">
+                         <title>technicko-hospodářské pracovníky</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="310" right="yes">
+                         <score>2</score>
+                         <title>dělníky</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="311" type="MofN">
+               <title>Jaké ukazatele výkonu slouží ke stanovení úkolové mzdy?</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="312">
+                         <title>normy obsluhy</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="313">
+                         <title>normy řízení</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="314" right="yes">
+                         <score>2</score>
+                         <title>výkonové normy</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="315">
+                         <title>využití výrobní kapacity</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="316" type="MofN">
+               <title>Úkolová mzda nesmí být podle Zákoníku práce uplatněna v případě:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="317">
+                         <title>chybějícího systému kontroly jakosti</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="318" right="yes">
+                         <score>2</score>
+                         <title>zvýšeného nebezpečí úrazu a ohrožení bezpečnosti a zdraví zaměstnanců</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="319">
+                         <title>zanedbání revizní činnosti v oblasti normování práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="320">
+                         <title>prostojů v práci z důvodů na straně zaměstnavatele</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="321" type="MofN">
+               <title>Zadržování výkonu zaměstnancem odměňovaným úkolovou mzdou je důsledkem:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="322">
+                         <title>očekávání růstu výdělku v blízké budoucnosti</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="323" right="yes">
+                         <score>1</score>
+                         <title>tlaku kolektivu spolupracovníků na jednotlivce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="324" right="yes">
+                         <score>1</score>
+                         <title>obava ze zpevnění norem, jsou-li nadprůměrně překračovány</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="325">
+                         <title>nespokojenost s prací a pracovními podmínkami ve firmě</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+     </section>
+     <section ident="139" show_results="yes" showrightanswers="yes" terms_enabled="no">
+          <score>77</score>
+          <minscore>60</minscore>
+          <title>Závěrečný test</title>
+          <comment/>
+          <maxattempts>1</maxattempts>
+          <timelimit>60</timelimit>
+          <question finaltest="true" ident="140" type="1ofN">
+               <title>Cílem získávání pracovníků je:</title>
+               <comment/>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="141">
+                         <title>vytvářet pozitivní personální marketing firmy</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="163">
+                         <title>nabízet realistickou představu o práci</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="174" right="yes">
+                         <score>2</score>
+                         <title>identifikovat, přitáhnout a najmout pracovní sílu</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="187" type="MofN">
+               <title>Získávání pracovníků nevychází:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="209">
+                         <title>z personální strategie a popisu firemní kultury</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="210">
+                         <title>z analýzy práce a specifikace požadavků na pracovníka</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="211" right="yes">
+                         <score>2</score>
+                         <title>z národního plánu zaměstnanosti</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="212">
+                         <title>z plánovaného počtu a struktury pracovníků</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="213" type="MofN">
+               <title>Zaměstnavatel má při získávání pracovníků respektovat příslušná ustanovení:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="214">
+                         <title>zákona o mzdě</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="215">
+                         <title>zákona o kolektivním vyjednávání</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="216" right="yes">
+                         <score>1</score>
+                         <title>zákona o zaměstnanosti</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="217" right="yes">
+                         <score>1</score>
+                         <title>zákoníku práce</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="218" type="MofN">
+               <title>Která z metod získávání z vnějšího trhu práce je účinná a zároveň levná:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="219">
+                         <title>zprostředkování pomocí úřadu práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="220">
+                         <title>on-line získávání</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="221">
+                         <title>pomocí personální agentury</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="222" right="yes">
+                         <score>2</score>
+                         <title>doporučení zaměstnancem</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="223" type="MofN">
+               <title>Chce-li zaměstnavatel získávat pracovníky z vnitřního trhu práce, pak to vyžaduje:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="224">
+                         <title>zavést a rozvíjet programy orientace</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="225">
+                         <title>vytvořit a rozvíjet motivační program</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="226" right="yes">
+                         <score>2</score>
+                         <title>investovat do vzdělávání a rozvoje</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="227" type="MofN">
+               <title>Cílem výběru pracovníků je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="228">
+                         <title>identifikace zdrojů informací o uchazeči o zaměstnání</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="229" right="yes">
+                         <score>2</score>
+                         <title>vybrat na pracovní místo vhodného uchazeče</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="230">
+                         <title>rozhodnout se o způsobu najmutí nové pracovní síly</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="231" type="MofN">
+               <title>Analýza motivačního dopisu a životopisu uchazeče o zaměstnání slouží k tomu:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="232" right="yes">
+                         <score>2</score>
+                         <title>identifikovat uchazečovy předpoklady k výkonu práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="233">
+                         <title>identifikovat uchazečovy schopnosti a dovednosti</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="234">
+                         <title>identifikovat uchazečovu motivaci k práci</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="235" type="MofN">
+               <title>Závažným negativním signálem v životopisu uchazeče o práci je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="236" right="yes">
+                         <score>1</score>
+                         <title>nevysvětlená časová mezera ve výčtu pracovních aktivit</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="237">
+                         <title>rozsah životopisu a označení vykonávané práce pouze názvem pracovní funkce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="238" right="yes">
+                         <score>1</score>
+                         <title>častá změna druhu vykonávané práce a délka trvání pracovního poměru</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="239" type="MofN">
+               <title>Předností osobního dotazníku je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="240">
+                         <title>identifikace osobnostních charakteristik uchazeče o práci</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="241" right="yes">
+                         <score>2</score>
+                         <title>identifikace přesných a určitých údajů o uchazeči</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="242">
+                         <title>celkový rozsah daný omezeným počtem otázek</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="243" type="MofN">
+               <title>Výběr uchazeče o práci je vždy proveden pomocí:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="244">
+                         <title>testování</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="245">
+                         <title>assessment center</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="246" right="yes">
+                         <score>2</score>
+                         <title>pohovoru</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="247" type="MofN">
+               <title>Cílem řízené adaptace zaměstnanců je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="248">
+                         <title>zlepšit firemní kulturu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="249" right="yes">
+                         <score>2</score>
+                         <title>snížit fluktuaci nových zaměstnanců</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="250">
+                         <title>podpořit organizační rozvoj</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="251" type="MofN">
+               <title>Adaptace zaměstnance neznamená:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="252">
+                         <title>přizpůsobit se požadavkům práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="253">
+                         <title>přizpůsobit se sociálním vztahům v organizaci</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="254" right="yes">
+                         <score>2</score>
+                         <title>přizpůsobit se motivačnímu programu firmy</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="255" type="MofN">
+               <title>V programu orientace se stále větší význam přikládá:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="256" right="yes">
+                         <score>2</score>
+                         <title>poznání firemní kultury</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="257">
+                         <title>vůdcovství vrcholového managementu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="258">
+                         <title>komplexnosti orientačního balíčku</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="259" type="MofN">
+               <title>Úroveň adaptovanosti zaměstnance se posuzuje:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="260" right="yes">
+                         <score>2</score>
+                         <title>množstvím a kvalitou vykonané práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="261">
+                         <title>hodnotícím rozhovorem</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="262">
+                         <title>tzv. 360° zpětnou vazbou</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="263" type="MofN">
+               <title>Nejdůležitějším subjektem v procesu adaptace zaměstnance je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="264">
+                         <title>externí kouč</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="265">
+                         <title>personalista</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="266" right="yes">
+                         <score>2</score>
+                         <title>přímý nadřízený</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="267" type="MofN">
+               <title>Cílem hodnocení zaměstnance je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="268">
+                         <title>urychlit adaptaci na firemní kulturu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="269" right="yes">
+                         <score>1</score>
+                         <title>zlepšit pracovní výkon</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="270" right="yes">
+                         <score>1</score>
+                         <title>motivovat k profesnímu rozvoji</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="271">
+                         <title>doplnit údaje pro analýzu práce</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="272" type="MofN">
+               <title>Systematické hodnocení zaměstnance se provádí:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="273">
+                         <title>jednorázově podle situační potřeby</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="274">
+                         <title>podle plánu osobního rozvoje</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="275" right="yes">
+                         <score>2</score>
+                         <title>pravidelně podle určité zásady</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="276" type="MofN">
+               <title>Kritickým momentem v hodnocení zaměstnance je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="277" right="yes">
+                         <score>2</score>
+                         <title>vedení hodnotícího rozhovoru</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="278">
+                         <title>kontrola výsledků hodnocení</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="279">
+                         <title>postavení personálního útvaru</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="280" type="MofN">
+               <title>Hodnocení zaměstnance je motivačně účinné, pokud:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="281">
+                         <title>hodnotí osobnostní charakteristiky zaměstnance</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="282">
+                         <title>je spojeno s osobním ohodnocením</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="283" right="yes">
+                         <score>2</score>
+                         <title>hodnotí plnění dohodnutých cílů</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="284" type="MofN">
+               <title>Systematické hodnocení zaměstnance provádí:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="285">
+                         <title>personalista</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="286">
+                         <title>mentor</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="287" right="yes">
+                         <score>2</score>
+                         <title>přímý nadřízený</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="288" type="MofN">
+               <title>Smyslem vzdělávání exekutivy je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="289">
+                         <title>poskytnout další zaměstnaneckou výhodu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="290" right="yes">
+                         <score>2</score>
+                         <title>investovat do organizačního rozvoje</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="291">
+                         <title>internacionalizovat firemní aktivity</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="292" type="MofN">
+               <title>Učení se akcí při vzdělávání exekutivy znamená:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="293">
+                         <title>simulace, např. hraní rolí</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="294">
+                         <title>koučování externími konzultanty</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="295" right="yes">
+                         <score>2</score>
+                         <title>týmové řešení projektů</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="296" type="MofN">
+               <title>Cílem elektronického vzdělávání je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="297" right="yes">
+                         <score>1</score>
+                         <title>snížit náklady na vzdělávání</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="298" right="yes">
+                         <score>1</score>
+                         <title>rychle a kamkoliv diseminovat znalosti</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="299">
+                         <title>nahradit tradiční formy vzdělávání</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="300" type="MofN">
+               <title>Kritickým bodem podnikového programu vzdělávání je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="301">
+                         <title>postoj managementu ke vzdělávání zaměstnanců</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="302" right="yes">
+                         <score>2</score>
+                         <title>hodnocení programu vzdělávání</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="303">
+                         <title>aplikace on-line vzdělávání</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="304" type="MofN">
+               <title>Hodnocení účinnosti programu vzdělávání lze provádět:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="305">
+                         <title>mírou fluktuace a pracovní neschopností účastníků vzdělávání</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="306">
+                         <title>dotazníkovým průzkumem o potřebě vzdělávání</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="307" right="yes">
+                         <score>2</score>
+                         <title>hodnocením změn v pracovním výkonu a chování</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="327" type="MofN">
+               <title>Jakým způsobem ovlivní mzdový systém firmy rozhodnutí, že prioritním cílem mzdové politiky je získat a stabilizovat kvalitní zaměstnance:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="328">
+                         <title>váha složek mzdy je dohodnuta v podnikové kolektivní smlouvě</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="329">
+                         <title>stanoví se relativně vysoký podíl pohyblivé složky mzdy</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="330" right="yes">
+                         <score>2</score>
+                         <title>zaručí se relativně vysoký podíl tarifní mzdy</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="331" type="MofN">
+               <title>Na vytváření firemního systému odměňování se podílí několik zainteresovaných účastníků. O koho se může z následujícího výčtu jednat:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="332" right="yes">
+                         <score>1</score>
+                         <title>vedení firmy</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="333" right="yes">
+                         <score>1</score>
+                         <title>podniková odborová organizace</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="334" right="yes">
+                         <score>1</score>
+                         <title>personální útvar</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="335">
+                         <title> svaz zaměstnavatelů oboru</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="336" type="MofN">
+               <title>V podnikové kolektivní smlouvě jsou vždy ve mzdové oblasti dohodnuty:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="337" right="yes">
+                         <score>1</score>
+                         <title>tarifní stupně a mzdové tarify</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="338" right="yes">
+                         <score>1</score>
+                         <title>příplatky (tarifní povahy)</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="339">
+                         <title>podrobné zásady pro vnitropodnikovou regulaci mezd</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="340">
+                         <title> podrobné zásady pro uplatňování mzdových forem</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="341" type="MofN">
+               <title>Firma může mzdové tarify zakotvit:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="342" right="yes">
+                         <score>1</score>
+                         <title>v podnikové kolektivní smlouvě</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="343" right="yes">
+                         <score>1</score>
+                         <title>v dodatku k pracovní smlouvě</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="344" right="yes">
+                         <score>1</score>
+                         <title>ve vnitřním mzdovém předpisu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="345">
+                         <title>není žádné omezení, nesmí ale nikdy uplatnit nižší mzdové tarify, než jsou minimální mzdové tarify vyhlášené nařízením vlády podle Zákona o mzdě</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="346" type="MofN">
+               <title>Analytické metody hodnocení práce se liší od sumárních metod tím, že</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="347" right="yes">
+                         <score>2</score>
+                         <title> jsou stanoveny váhy kritérií hodnocení práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="348">
+                         <title> jsou stanoveny hodnoty prací</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="349">
+                         <title>hodnocení je prováděno v pravidelných intervalech</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="350">
+                         <title>jsou zpracovány stupně pro kvantifikaci hodnoty prací</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="351" type="MofN">
+               <title>Jaký je správný postup hodnocení práce. Postupuje se:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="352" right="yes">
+                         <score>2</score>
+                         <title>práce jsou slovně popsány a pak jsou kvantifikovány míry složitosti jedné práce ve srovnání s ostatními prácemi</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="353">
+                         <title>celé hodnocení prací je provedeno kvantifikací, tj. stanovením tarifních stupňů</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="354">
+                         <title>každý krok v hodnocení práce je předmětem kolektivního vyjednávání</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="355" type="MofN">
+               <title>Při stanovení firemních mzdových tarifů se zohledňuje:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="356" right="yes">
+                         <score>1</score>
+                         <title>mzdová struktura u konkurence ve stejném oboru a lokalitě</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="357">
+                         <title>celkové personální náklady na jednotku produkce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="358" right="yes">
+                         <score>1</score>
+                         <title>výsledky kolektivního vyjednávání</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="359" right="yes">
+                         <score>1</score>
+                         <title>zákonné předpisy o minimální mzdě a minimálních mzdových tarifech</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="360" type="MofN">
+               <title>Stanovení mzdového tarifu podle hodnoty práce zjištěné sumární metodou hodnocení práce lze provést: </title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="361">
+                         <title>tarifní stupně jsou oceněny mzdovými tarify pomocí mzdové rovnice</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="362" right="yes">
+                         <score>1</score>
+                         <title>tarifní stupně jsou oceněny tarify pomocí aritmetické nebo geometrické řady</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="363" right="yes">
+                         <score>1</score>
+                         <title> jeden ze stupňů je určen za směrný a všechny ostatní jsou k němu v určitém poměru</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="364" type="MofN">
+               <title>Na jakém výsledku práce závisí stanovení úkolové mzdy:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="365">
+                         <title>na skutečně odpracované době</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="366">
+                         <title>na plnění peněžního ukazatele</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="367" right="yes">
+                         <score>2</score>
+                         <title>na plnění výkonových norem</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="368">
+                         <title>na plnění norem obsluhy</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="369" type="MofN">
+               <title>Kde je vhodné uplatnit úkolovou mzdu za normohodiny, která má rovnoměrný průběh závislosti na odvedeném výkonu:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="370">
+                         <title> hromadná výroba</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="371">
+                         <title>sériová výroba</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="372" right="yes">
+                         <score>1</score>
+                         <title>malosériová výroba</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="373" right="yes">
+                         <score>1</score>
+                         <title>kusová výroba</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="374" type="MofN">
+               <title>Čím se liší prémie od úkolové mzdy?</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="375">
+                         <title>Výsledek práce je měřitelný</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="376" right="yes">
+                         <score>2</score>
+                         <title>Prémiový ukazatel může být jak norma času, tak i jiné kritérium</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="377">
+                         <title>Výsledek práce je vždy slovně hodnotitelný</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="378" type="MofN">
+               <title>Jak lze rozdělit kolektivní odměnu za četu, jejíž členové jsou zařazeni do stejného tarifního stupně a pracují se stejnou produktivitou?</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="379" right="yes">
+                         <score>2</score>
+                         <title>podle skutečně odpracované doby</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="380">
+                         <title>podle tarifní mzdy</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="381">
+                         <title>podle přepočítané tarifní mzdy</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+     </section>
+</test>

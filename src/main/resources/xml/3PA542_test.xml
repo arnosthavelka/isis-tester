@@ -1,0 +1,2028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test ident="">
+     <score/>
+     <minscore/>
+     <comment>Test</comment>
+     <section ident="2" show_results="yes" showrightanswers="yes" terms_enabled="no">
+          <score>40</score>
+          <minscore>60</minscore>
+          <title>1 Charakteristika organizace práce</title>
+          <comment/>
+          <maxattempts>2</maxattempts>
+          <timelimit>15</timelimit>
+          <question finaltest="true" ident="23" type="MofN">
+               <title>Příkladem pracovního systému je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="137" right="yes">
+                         <score>2</score>
+                         <title>pracoviště sekretářky</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="138" right="yes">
+                         <score>2</score>
+                         <title>útvar marketing</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="139" right="yes">
+                         <score>2</score>
+                         <title>obrobna</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="140" right="yes">
+                         <score>2</score>
+                         <title>montážní linka karoserií</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="141">
+                         <title>žádná odpověď nevyhovuje</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="24" type="MofN">
+               <title>Nezbytnou náležitostí pracovního úkolu je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="142" right="yes">
+                         <score>10</score>
+                         <title>termín splnění úkolu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="143">
+                         <title>norma času</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="144">
+                         <title>specifikace nároků práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="145">
+                         <title>pracovní postup</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="25" type="MofN">
+               <title>Organizace práce nezahrnuje:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="146">
+                         <title>stanovení pracovního postupu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="147" right="yes">
+                         <score>6</score>
+                         <title>stanovení technologického postupu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="148" right="yes">
+                         <score>6</score>
+                         <title>stanovení požadované kapacity (výroby, služeb)</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="149">
+                         <title>organizaci pracovní doby</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="26" type="MofN">
+               <title>Ergonomie se zabývá:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="150">
+                         <title>sociální podmíněností pracovní motivace</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="151" right="yes">
+                         <score>10</score>
+                         <title>optimalizací systému člověk-stroj-prostředí</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="152">
+                         <title>měřením pracovního výkonu</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+     </section>
+     <section ident="4" show_results="yes" showrightanswers="yes" terms_enabled="no">
+          <score>110</score>
+          <minscore>60</minscore>
+          <title>2 Vytváření pracovních úkolů a pracovních míst</title>
+          <comment/>
+          <maxattempts>1</maxattempts>
+          <timelimit>20</timelimit>
+          <question finaltest="true" ident="27" type="MofN">
+               <title>Mechanistický přístup k vytváření pracovních úkolů a pracovních míst má tyto typické znaky:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="153" right="yes">
+                         <score>10</score>
+                         <title>specializované pracoviště</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="154">
+                         <title>univerzální pracoviště</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="155">
+                         <title>malé nároky na koordinaci práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="156">
+                         <title>vysoké nároky na zácvik pracovníka</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="28" type="MofN">
+               <title>Moderní přístupy k vytváření pracovních úkolů jsou založeny na těchto zásadách:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="157" right="yes">
+                         <score>10</score>
+                         <title>různorodá struktura práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="158">
+                         <title>vysoká specializace pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="159">
+                         <title>mnohastupňová organizační struktura</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="29" type="MofN">
+               <title>Typickým znakem motivačního přístupu k vytváření pracovních úkolů je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="160" right="yes">
+                         <score>10</score>
+                         <title>rotace pracovních úkolů a pracovních míst</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="161">
+                         <title>liniově-štábní organizační struktura</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="162">
+                         <title>úzká specializace pracovníků</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="30" type="MofN">
+               <title>Výhodou střídání (rotace) pracovních míst  (úkolů) je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="163">
+                         <title>snížení mzdových nákladů</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="164" right="yes">
+                         <score>5</score>
+                         <title>snížení stupně monotonie práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="165" right="yes">
+                         <score>5</score>
+                         <title>zvýšení kvalifikace pracovníka</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="31" type="MofN">
+               <title>Rotace pracovních úkolů a pracovních míst slouží jako prostředek:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="166" right="yes">
+                         <score>5</score>
+                         <title>plánování kariérové dráhy</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="167" right="yes">
+                         <score>5</score>
+                         <title>omezení nepříznivého působení práce na člověka</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="168">
+                         <title>formování příznivých mezilidských vztahů na pracovišti</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="32" type="MofN">
+               <title>Příkladem rozšiřování pracovního úkolu je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="169">
+                         <title>sloučení funkce seřizovače a technické kontroly)</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="170">
+                         <title>sloučení funkce sekretářky a referentky nákupu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="171" right="yes">
+                         <score>10</score>
+                         <title>sloučení dvou různých pracovních míst na montážní lince s požadovanou kvalifikací &quot;mechanik&quot;</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="33" type="MofN">
+               <title>Příkladem obohacování pracovního úkolu je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="172" right="yes">
+                         <score>3</score>
+                         <title>sloučení funkce řidiče a závozníka</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="173" right="yes">
+                         <score>3</score>
+                         <title>sloučení funkce technologa a normovače práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="174" right="yes">
+                         <score>3</score>
+                         <title>sloučení funkce bezpečnostního techniky a správce budov</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="175">
+                         <title>žádná odpověď nevyhovuje</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="34" type="MofN">
+               <title>Posilování pravomocí je příkladem:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="176" right="yes">
+                         <score>11</score>
+                         <title>obohacování pracovního úkolu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="177">
+                         <title>integrace operací hlavního procesu a řídícího procesu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="178">
+                         <title>kombinované dělby práce</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="35" type="MofN">
+               <title>Základními znaky skupinové práce je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="179" right="yes">
+                         <score>10</score>
+                         <title>synergický efekt</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="180">
+                         <title>vysoké nároky na koordinaci práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="181">
+                         <title>vysoké nároky na operativní řízení práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="182">
+                         <title>složitá komunikace</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="36" type="MofN">
+               <title>Autonomní pracovní skupina má zpravidla tyto pravomoci:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="183" right="yes">
+                         <score>5</score>
+                         <title>rozhoduje o dělbě práce uvnitř skupiny</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="184">
+                         <title>rozhoduje o použitém technologickém postupu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="185" right="yes">
+                         <score>5</score>
+                         <title>rozhoduje o členství ve skupině</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="37" type="MofN">
+               <title>Důvodem pro uplatnění autonomních pracovních skupin může být:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="186" right="yes">
+                         <score>5</score>
+                         <title>zjednodušení organizační struktury(zeštíhlení podniku)</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="187" right="yes">
+                         <score>5</score>
+                         <title>větší pružnost v reakci na požadavky trhu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="188">
+                         <title>možnost uplatnění přímé úkolové mzdy</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+     </section>
+     <section ident="12" show_results="yes" showrightanswers="yes" terms_enabled="no">
+          <score>70</score>
+          <minscore>60</minscore>
+          <title>3 Hospodaření s časem</title>
+          <comment/>
+          <maxattempts>2</maxattempts>
+          <timelimit>15</timelimit>
+          <question finaltest="true" ident="85" type="MofN">
+               <title>Ztrátové čas se z hlediska příčin jejich vzniku standardně člení na:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="310">
+                         <title>ztráty technologické</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="311">
+                         <title>ztráty personální</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="312" right="yes">
+                         <score>3</score>
+                         <title>ztráty osobní</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="313" right="yes">
+                         <score>3</score>
+                         <title>ztráty technickoorganizační</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="314" right="yes">
+                         <score>3</score>
+                         <title>ztráty z vyšší moci</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="315">
+                         <title>ztráty ekonomické</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="86" type="MofN">
+               <title>Vnitrosměnové ztráty času lze zjistit:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="316">
+                         <title>plynulou chronometráží</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="317" right="yes">
+                         <score>5</score>
+                         <title>momentovým pozorováním</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="318">
+                         <title>momentovým měřením</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="319" right="yes">
+                         <score>5</score>
+                         <title>snímkem pracovního dne</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="87" type="MofN">
+               <title>Stanovení priorit se v Time managementu používá:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="320" right="yes">
+                         <score>11</score>
+                         <title>pro stanovení cílů</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="321">
+                         <title>k omezení rušivých faktorů a ztrátových časů</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="322">
+                         <title>žádná odpověď nevyhovuje</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="88" type="MofN">
+               <title>Paretův princip se v Time managementu používá:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="323" right="yes">
+                         <score>10</score>
+                         <title>ke stanovení priorit</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="324">
+                         <title>k omezení rušivých faktorů a ztrátových časů</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="325">
+                         <title>ke stanovení režimu práce a odpočinku</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="89" type="MofN">
+               <title>Metoda ABC se v Time managementu používá:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="326">
+                         <title>pro plánování práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="327">
+                         <title>k omezení rušivých faktorů a ztrátových časů</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="328" right="yes">
+                         <score>10</score>
+                         <title>žádná odpověď nevyhovuje</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="90" type="MofN">
+               <title>Eisenhowerů v princip se v Time managementu používá:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="329" right="yes">
+                         <score>10</score>
+                         <title>pro stanovení priorit</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="330">
+                         <title>k omezení rušivých faktorů a ztrátových časů</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="331">
+                         <title>ke stanovení režimu práce a odpočinku</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="91" type="MofN">
+               <title>Stanovení denního plánu se řídí těmito pravidly:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="332">
+                         <title>přednostně se zařazují krátkodobé úkoly</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="333" right="yes">
+                         <score>5</score>
+                         <title>část směny se věnuje plánovaným úkolům, další část je rezerva</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="334" right="yes">
+                         <score>5</score>
+                         <title>pořadí úkolů odpovídá jejich náročnosti</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+     </section>
+     <section ident="14" show_results="yes" showrightanswers="yes" terms_enabled="no">
+          <score>120</score>
+          <minscore>60</minscore>
+          <title>4 Pracovní režimy</title>
+          <comment/>
+          <maxattempts>2</maxattempts>
+          <timelimit>30</timelimit>
+          <question finaltest="true" ident="92" type="MofN">
+               <title>Délka pracovní směny nesmí u nerovnoměrného rozvržení pracovní doby překročit:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="335">
+                         <title>deset hodin</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="336">
+                         <title>jedenáct hodin</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="337" right="yes">
+                         <score>10</score>
+                         <title>dvanáct hodin</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="93" type="MofN">
+               <title>Délka pracovní směny nesmí u rovnoměrného rozvržení pracovní doby překročit:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="338" right="yes">
+                         <score>11</score>
+                         <title>devět hodin</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="339">
+                         <title>deset hodin</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="340">
+                         <title>osm a půl hodiny</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="94" type="1ofN">
+               <title>Povaha práce a podmínky provozu nevyžadují nerovnoměrné rozvržení pracovní doby. Může podnik tento režim s pracovníkem dohodnout?</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="341" right="yes">
+                         <score>10</score>
+                         <title>ano</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="342">
+                         <title>ne</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="95" type="MofN">
+               <title>Výhodou kratší pracovní doby z hlediska zaměstnavatele je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="343">
+                         <title>snížení nákladů na personální administrativu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="344" right="yes">
+                         <score>5</score>
+                         <title>vyšší hodinová produktivita práce zaměstnance</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="345" right="yes">
+                         <score>5</score>
+                         <title>lepší vybilancování potřeby práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="346">
+                         <title>žádná odpověď nevyhovuje</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="96" type="MofN">
+               <title>Výhodou směnové a noční práce z hlediska zaměstnavatele je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="347" right="yes">
+                         <score>5</score>
+                         <title>úspora investičních nákladů na vytvoření nových pracovních míst</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="348" right="yes">
+                         <score>5</score>
+                         <title>nižší podíl odpisů na jednotku produkce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="349">
+                         <title>nižší mzdové náklady jednicových pracovníků</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="97" type="MofN">
+               <title>Typickým znakem flexibilního pracovního režimu je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="350" right="yes">
+                         <score>3</score>
+                         <title>nerovnoměrné rozvržení pracovní doby</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="351" right="yes">
+                         <score>3</score>
+                         <title>větší počet pracovníků než pracovních míst</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="352">
+                         <title>odměňování úkolovou mzdou</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="353" right="yes">
+                         <score>3</score>
+                         <title>snížení rozsahu přesčasové práce</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="98" type="MofN">
+               <title>Flexibilní pracovní doba umožňuje zaměstnavateli:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="354" right="yes">
+                         <score>5</score>
+                         <title>snížit náklady na přesčasovou práci</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="355">
+                         <title>zjednodušit evidenci odpracované doby</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="356">
+                         <title>snížit nároky na kvalifikaci pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="357" right="yes">
+                         <score>5</score>
+                         <title>snížit náklady na skladování zásob hotové výroby</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="99" type="MofN">
+               <title>Výhodou pružné pracovní doby z hlediska zaměstnavatele je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="358">
+                         <title>snížení režijních nákladů (topení, osvětlení apod.)</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="359">
+                         <title>větší prostor pro komunikaci</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="360" right="yes">
+                         <score>10</score>
+                         <title>úspory na náhradách mzdy</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="100" type="MofN">
+               <title>Typickým znakem sdílení pracovních míst je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="361" right="yes">
+                         <score>10</score>
+                         <title>pracovní místo je obsazeno dvěma nebo více pracovníky, kteří si sami rozdělují práci</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="362">
+                         <title>na pracovním místě se střídají dva pracovníci s pracovní smlouvou na kratší pracovní dobu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="363">
+                         <title>žádná odpověď nevyhovuje</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="101" type="MofN">
+               <title>Ve výrobním  podniku s výraznějším kolísáním poptávky bude pro pracovníky v dílnách vhodný režim:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="364" right="yes">
+                         <score>10</score>
+                         <title>smlouva o roční pracovní době</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="365">
+                         <title>individuální konta odpracované doby</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="366">
+                         <title>podílová práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="367">
+                         <title>pružná pracovní doba</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="102" type="MofN">
+               <title>V hotelu závislém na sezóně bude pro provozní pracovníky vhodný režim:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="368">
+                         <title>pružná pracovní doba</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="369" right="yes">
+                         <score>10</score>
+                         <title>individuální konta odpracované doby</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="370">
+                         <title>podílová práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="371">
+                         <title>distanční práce</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="103" type="MofN">
+               <title>Regulované režimy práce a odpočinku se uplatňují:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="372">
+                         <title>u všech typů prací</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="373" right="yes">
+                         <score>10</score>
+                         <title>u prací s vázaným rytmem</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="374">
+                         <title>u prací s větší fyzickou zátěží pracovníka</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+     </section>
+     <section ident="16" show_results="yes" showrightanswers="yes" terms_enabled="no">
+          <score>140</score>
+          <minscore>60</minscore>
+          <title>5 Ergonomické požadavky</title>
+          <comment/>
+          <maxattempts>2</maxattempts>
+          <timelimit>30</timelimit>
+          <question finaltest="true" ident="104" type="MofN">
+               <title>Pracovní poloha, výška pracovní plochy a zorná vzdálenost se řeší při prostorovém uspořádání pracoviště současně. Se zvyšující se zrakovou náročností práce výška pracovní plochy:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="375" right="yes">
+                         <score>10</score>
+                         <title>stoupá</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="376">
+                         <title>klesá</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="377">
+                         <title>zůstává stejná</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="105" type="MofN">
+               <title>Funkční manipulační prostor je vymezen:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="378">
+                         <title>plochou, kterou opíše předloktí</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="379" right="yes">
+                         <score>10</score>
+                         <title>dosahem natažené paže</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="380">
+                         <title>dosahem natažené paže při vychýlení těla</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="106" type="MofN">
+               <title>Při prostorovém řešení pracoviště s počítačem musí být klávesnice na pracovní ploše umístěna tak, aby:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="381" right="yes">
+                         <score>10</score>
+                         <title>zápěstí bylo níže než loket</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="382">
+                         <title>zápěstí bylo výše než loket</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="383">
+                         <title>zápěstí bylo na stejné úrovni s loktem</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="107" type="MofN">
+               <title>Pro řešení pracoviště s monotónní prací je vhodná barevná úprava:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="384" right="yes">
+                         <score>10</score>
+                         <title>v teplých tónech</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="385">
+                         <title>ve studených tónech</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="386">
+                         <title>žádná odpověď nevyhovuje</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="108" type="MofN">
+               <title>Pro řešení pracoviště s tvořivou prací je vhodná barevná úprava:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="387">
+                         <title>v teplých tónech</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="388" right="yes">
+                         <score>10</score>
+                         <title>ve studených tónech</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="389">
+                         <title>žádná odpověď nevyhovuje</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="109" type="MofN">
+               <title>Doporučená výška pracovní plochy závisí na:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="390" right="yes">
+                         <score>3</score>
+                         <title>zrakové náročnosti práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="391" right="yes">
+                         <score>3</score>
+                         <title>pracovní poloze</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="392" right="yes">
+                         <score>3</score>
+                         <title>antropometrických rozměrech pracovníka</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="110" type="MofN">
+               <title>Ergatičnost je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="393" right="yes">
+                         <score>11</score>
+                         <title>kvalita systému člověk-stroj-prostředí</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="394">
+                         <title>schopnost rychlé adaptace na nové pracovní místo</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="395">
+                         <title>metoda vytváření pracovních úkolů a pracovních míst</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="112" type="MofN">
+               <title>Mezi škodliviny nepatří:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="400">
+                         <title>hluk</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="401" right="yes">
+                         <score>5</score>
+                         <title>mikroklimatické podmínky </title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="402" right="yes">
+                         <score>5</score>
+                         <title>osvětlení</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="403">
+                         <title>vibrace</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="113" type="MofN">
+               <title>Mikroklimatické podmínky zahrnují:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="404" right="yes">
+                         <score>3</score>
+                         <title>rychlost proudění vzduchu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="405" right="yes">
+                         <score>3</score>
+                         <title>teplotu vzduchu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="406" right="yes">
+                         <score>3</score>
+                         <title>čistotu vzduchu</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="115" type="MofN">
+               <title>Sdružené osvětlení je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="407" right="yes">
+                         <score>11</score>
+                         <title>druhu práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="408">
+                         <title>věku pracovníka</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="409">
+                         <title>žádná odpověď nevyhovuje</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="114" type="MofN">
+               <title>Požadovaná (hygienickým předpisem) teplota vzduchu na pracovišti závisí na:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="410" right="yes">
+                         <score>10</score>
+                         <title>kombinace denního a umělého osvětlení</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="411">
+                         <title>kombinace celkového a místního osvětlení</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="412">
+                         <title>žádná odpověď nevyhovuje</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="116" type="1ofN">
+               <title>Osvětlenost je:</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="413" right="yes">
+                         <score>10</score>
+                         <title>množství světla na dané ploše</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="414">
+                         <title>poměr mezi nejmenší a největší intenzitou osvětlení sledovaného prostoru</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="117" type="MofN">
+               <title>Za hluk je považován zvuk, který (označte definici hluku):</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="415">
+                         <title>přesáhne hladinu 50 dB</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="416">
+                         <title>působí na člověka škodlivě</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="417">
+                         <title>působí ne člověka rušivě a škodlivě</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="418" right="yes">
+                         <score>10</score>
+                         <title>působí na člověka nepříjemně, rušivě a škodlivě</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="118" type="MofN">
+               <title>Nejvyšší přípustná hodnota hluku závisí na:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="419">
+                         <title>věku pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="420" right="yes">
+                         <score>10</score>
+                         <title>druhu práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="421">
+                         <title>žádná odpověď nevyhovuje</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+     </section>
+     <section ident="20" show_results="yes" showrightanswers="yes" terms_enabled="no">
+          <score>130</score>
+          <minscore>60</minscore>
+          <title>6 Bezpečnost práce a ochrana zdraví pracovníků</title>
+          <comment/>
+          <maxattempts>2</maxattempts>
+          <timelimit>30</timelimit>
+          <question finaltest="true" ident="119" type="MofN">
+               <title>Státní dozor nad bezpečností práce u nás vykonává:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="437">
+                         <title>Ministerstvo spravedlnosti</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="438" right="yes">
+                         <score>10</score>
+                         <title>Ministerstvo práce a sociálních věcí</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="439">
+                         <title>Státní zdravotní ústav</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="120" type="MofN">
+               <title>Odborový orgán má v oblasti bezpečnosti práce tyto povinnosti:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="440">
+                         <title>zastavit práci v případě vážného ohrožení života a zdraví pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="441">
+                         <title>spolupracovat se zaměstnavatelem při vyšetřování pracovních úrazů</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="442">
+                         <title>účastnit se prověrek bezpečnosti práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="443" right="yes">
+                         <score>10</score>
+                         <title>žádná odpověď nevyhovuje</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="121" type="MofN">
+               <title>Mezi povinnosti zaměstnavatele v oblasti bezpečnosti práce nepatří:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="444" right="yes">
+                         <score>3</score>
+                         <title>nahrazovat nebezpečné technologie méně nebezpečnými</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="445" right="yes">
+                         <score>3</score>
+                         <title>nahrazovat fyzicky namáhavé práce novými technologickými postupy</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="446" right="yes">
+                         <score>3</score>
+                         <title>zpracovávat kategorizaci prací</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="447">
+                         <title>žádná odpověď nevyhovuje</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="122" type="MofN">
+               <title>Registraci podléhá pracovní úraz, který způsobil pracovní neschopnost trvající nejméně:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="448">
+                         <title>jeden den</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="449" right="yes">
+                         <score>10</score>
+                         <title>tři dny</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="450">
+                         <title>sedm dní</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="123" type="MofN">
+               <title>Pro uznání pracovního úrazu z hlediska nároku na odškodnění se za přímou souvislost s prací považuje:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="451" right="yes">
+                         <score>11</score>
+                         <title>školení</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="452">
+                         <title>stravování</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="454">
+                         <title>cesta do zaměstnání</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="453">
+                         <title>žádná odpověď nevyhovuje</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="124" type="MofN">
+               <title>Zaměstnavatel se zprostí zcela odpovědnosti za pracovní úraz, když prokáže:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="455">
+                         <title>že pracovník dělal práci pro zaměstnavatele z vlastní iniciativy a mimo svou pracovní náplň</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="456">
+                         <title>pracovník byl opilý</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="457" right="yes">
+                         <score>10</score>
+                         <title>pracovník vlastní vinou porušil bezpečnostní předpisy, ačkoliv s nimi byl seznámen a jejich dodržování se od něho vyžadovalo</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="125" type="1ofN">
+               <title>Pracovnice uklouzla v dílně na odhozené slupce od banánu a způsobila si zranění. Jde o pracovní úraz z hlediska nároku na odškodnění?</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="458" right="yes">
+                         <score>10</score>
+                         <title>ano</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="459">
+                         <title>ne</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="126" type="1ofN">
+               <title>V průběhu čekání na vykládku spolu dvě pracovnice ze žertu zápasily a jedna při pádu utrpěla zranění. Jde o pracovní úraz z hlediska nároku na odškodnění?</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="460">
+                         <title>ano</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="461" right="yes">
+                         <score>10</score>
+                         <title>ne</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="127" type="1ofN">
+               <title>Pracovnice na školení mimo sídlo firmy byla ubytována v hotelu. V noci vyšla na neosvětlenou chodbu,  upadla a zlomila si nohu. Jde o pracovní úraz z hlediska nároku na odškodnění?</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="462">
+                         <title>ano</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="463" right="yes">
+                         <score>10</score>
+                         <title>ne</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="128" type="MofN">
+               <title>Při neopatrné manipulaci se zaměstnanec závodní kuchyně opařil čajem. Organizace se zprostí zcela odpovědnosti za škodu, jestliže prokáže:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="464" right="yes">
+                         <score>10</score>
+                         <title>že pracovník byl opilý a organizace nemohla škodě zabránit</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="465">
+                         <title>že pracovník konal práci, která nebyla v jeho pracovní náplni</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="466">
+                         <title>že se pracovník účastnil školení bezpečnosti práce</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="129" type="1ofN">
+               <title>Sekretářka hrála v přestávce školení na hřišti školícího střediska košíkovou a vymkla si kotník.</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="467">
+                         <title>jde o pracovní úraz</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="468" right="yes">
+                         <score>10</score>
+                         <title>nejde o pracovní úraz</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="130" type="MofN">
+               <title>Pro uznání profesionálního onemocnění z hlediska nároku pracovníka na odškodnění musí být splněny tyto podmínky:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="469">
+                         <title>pracovník odpracoval v exponovaném prostředí stanovený počet let (hodin)</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="470" right="yes">
+                         <score>5</score>
+                         <title>je prokázán vztah mezi prací a nemocí</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="471" right="yes">
+                         <score>5</score>
+                         <title>nemoc je v seznamu nemocí z povolání</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="131" type="1ofN">
+               <title>Všechny podnikatelské subjekty jsou povinny zajistit pro své zaměstnance závodní zdravotní preventivní péči:</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="472" right="yes">
+                         <score>10</score>
+                         <title>ano</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="473">
+                         <title>ne</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+     </section>
+     <section ident="22" show_results="yes" showrightanswers="yes" terms_enabled="no">
+          <score>50</score>
+          <minscore>60</minscore>
+          <title>7 Péče o zaměstnance</title>
+          <comment/>
+          <maxattempts>2</maxattempts>
+          <timelimit>15</timelimit>
+          <question finaltest="true" ident="132" type="1ofN">
+               <title>Sociální fond, z kterého jsou hrazeny služby poskytované zaměstnancům zřizuje zaměstnavatel:</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="422">
+                         <title>povinné</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="423" right="yes">
+                         <score>10</score>
+                         <title>nepovinné</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="133" type="MofN">
+               <title>Ze zákona má zaměstnavatel povinnost zajistit bezpečnou úschovu těchto dopravních prostředků, které zaměstnanci používají k cestě do zaměstnání:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="424">
+                         <title>osobních aut</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="425" right="yes">
+                         <score>5</score>
+                         <title>motocyklů</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="426" right="yes">
+                         <score>5</score>
+                         <title>jízdních kol</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="427">
+                         <title>žádná odpověď nevyhovuje</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="134" type="MofN">
+               <title>Zaměstnavatel je povinen poskytovat zaměstnancům osobní ochranné pracovní prostředky:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="428" right="yes">
+                         <score>10</score>
+                         <title>v naturální podobě</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="429">
+                         <title>formou peněžní úhrady</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="430">
+                         <title>pouze v případě, že je tak dohodnuto v kolektivní smlouvě</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="136" type="MofN">
+               <title>Zaměstnavatel je povinen pracovníkům v nočních směnách:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="431">
+                         <title>zajistit zaměstnancům stravování ve všech směnách</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="432">
+                         <title>zajistit zaměstnancům stravování v hlavní směně</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="433" right="yes">
+                         <score>10</score>
+                         <title>umožnit zaměstnancům stravování ve všech směnách</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="135" type="MofN">
+               <title>V oblasti stravovacích služeb má zaměstnavatel povinnost:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="434" right="yes">
+                         <score>10</score>
+                         <title>umožnit stravování</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="435">
+                         <title>zajistit stravování</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="436">
+                         <title>uhradit jedno teplé jídlo</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+     </section>
+     <section ident="3" show_results="yes" showrightanswers="yes" terms_enabled="no">
+          <score>30</score>
+          <minscore>60</minscore>
+          <title>8 Pracovní vztahy</title>
+          <comment/>
+          <maxattempts>2</maxattempts>
+          <timelimit>10</timelimit>
+          <question finaltest="false" ident="5" type="1ofN">
+               <title>Pro individuální a kolektivní pracovní vztahy je společný</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="6" right="yes">
+                         <score>10</score>
+                         <title>předmět vyjednávání</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="7">
+                         <title>počet subjektů vyjednávání</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="8">
+                         <title>sféra vlivu</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="9" type="1ofN">
+               <title>Zákoník práce obsahuje právní úpravu</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="10">
+                         <title>pouze individuálních pracovních vztahů</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="11">
+                         <title>pouze kolektivních pracovních vztahů</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="13" right="yes">
+                         <score>10</score>
+                         <title>individuálních i kolektivních pracovních vztahů</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="15" type="1ofN">
+               <title>Pracovněprávní vztahy představují</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="17" right="yes">
+                         <score>10</score>
+                         <title>formální pracovní vztahy</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="18">
+                         <title>neformální pracovní vztahy</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+     </section>
+     <section ident="19" show_results="yes" showrightanswers="yes" terms_enabled="no">
+          <score>65</score>
+          <minscore>60</minscore>
+          <title>9 Pracovní poměr</title>
+          <comment/>
+          <maxattempts>2</maxattempts>
+          <timelimit>20</timelimit>
+          <question finaltest="false" ident="21" type="1ofN">
+               <title>Jakými způsoby může vzniknout pracovní poměr?</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="38" right="yes">
+                         <score>10</score>
+                         <title>pracovní smlouvou, jmenováním, volbou</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="39">
+                         <title>pracovní smlouvou, jmenováním, volbou, dohodou o provedení práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="40">
+                         <title>pracovní smlouvou, jmenováním, volbou, dohodou o pracovní činnosti</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="41" type="1ofN">
+               <title>Mezi předepsané náležitosti pracovní smlouvy podle Zákoníku práce nepatří:</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="42">
+                         <title>sjednaný druh práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="43" right="yes">
+                         <score>10</score>
+                         <title>zkušební doba</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="44">
+                         <title>den nástupu do práce</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="45" type="MofN">
+               <title>Jmenováním se zakládá pracovní poměr</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="46">
+                         <title>u všech vedoucích zaměstnanců</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="47" right="yes">
+                         <score>5</score>
+                         <title>u vedoucích zaměstnanců jmenovaných do funkce podle zvláštním předpisů</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="48" right="yes">
+                         <score>0</score>
+                         <title>u vedoucích zaměstnanců, které do funkce jmenuje statutární orgán (u právnických osob) nebo zaměstnavatel (u fyzických osob)</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="49" type="1ofN">
+               <title>Pracovní smlouva</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="50">
+                         <title>musí být vždy uzavřena písemně</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="51">
+                         <title>může být uzavřena ústně</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="52" right="yes">
+                         <score>10</score>
+                         <title>může být uzavřena ústně u pracovního poměru kratšího než 1 měsíc</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="53" type="1ofN">
+               <title>Které tvrzení je pravdivé?</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="54" right="yes">
+                         <score>10</score>
+                         <title>během zkušební doby může kterákoliv ze stran rozvázat pracovní poměr  kdykoliv a bez udání důvodu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="55">
+                         <title>zkušební dobu lze dohodnout dodatečně</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="56">
+                         <title>zkušební dobu lze dodatečně prodlužovat</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="57" type="1ofN">
+               <title>Musí být v dohodě o skončení pracovního poměru uveden důvod skončení pracovního poměru?</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="58">
+                         <title>ano</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="59">
+                         <title>ne</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="60" right="yes">
+                         <score>10</score>
+                         <title>jen pokud to zaměstnanec vyžaduje</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="61" type="1ofN">
+               <title>Z jakéhokoliv důvodu nebo bez udání důvodu může dát výpověď</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="62">
+                         <title>zaměstnavatel</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="63" right="yes">
+                         <score>10</score>
+                         <title>zaměstnanec</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="64">
+                         <title>zaměstnavatel i zaměstnanec</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+     </section>
+     <section ident="84" show_results="yes" showrightanswers="yes" terms_enabled="no">
+          <score>30</score>
+          <minscore>60</minscore>
+          <title>10 Dohody o pracích konaných mimo PP</title>
+          <comment/>
+          <maxattempts>2</maxattempts>
+          <timelimit>10</timelimit>
+          <question finaltest="false" ident="65" type="1ofN">
+               <title>Pokud rozsah práce u zaměstnavatele nepřesahuje 100 ročně, lze uzavřít</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="66">
+                         <title>dohodu o provedení práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="67">
+                         <title>dohodu o pracovní činnosti</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="68" right="yes">
+                         <score>10</score>
+                         <title>dohodu o provedení práce i dohodu o pracovní činnosti</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="69" type="1ofN">
+               <title>Pokud rozsah práce u zaměstnavatele přesahuje 100 ročně, lze uzavřít</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="70">
+                         <title>dohodu o provedení práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="208" right="yes">
+                         <score>10</score>
+                         <title>dohodu o pracovní činnosti</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="71" type="MofN">
+               <title>V dohodě o provedení práce musí být</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="72" right="yes">
+                         <score>5</score>
+                         <title>vymezen pracovní úkol včetně rozsahu práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="73" right="yes">
+                         <score>5</score>
+                         <title>sjednána odměna za jeho provedení</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="74">
+                         <title>doba, v níž má být úkol proveden</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="75">
+                         <title>rozsah pracovní doby</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+     </section>
+     <section ident="111" show_results="yes" showrightanswers="yes" terms_enabled="no">
+          <score>50</score>
+          <minscore>60</minscore>
+          <title>13 Kolektivní pracovní vztahy</title>
+          <comment/>
+          <maxattempts>2</maxattempts>
+          <timelimit>15</timelimit>
+          <question finaltest="false" ident="189" type="1ofN">
+               <title>Které tvrzení není pravdivé?</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="190" right="yes">
+                         <score>10</score>
+                         <title>kolektivní pracovní vztahy představují vztahy vznikající mezi zaměstnancem a zaměstnavatelem</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="191">
+                         <title>kolektivní pracovní vztahy představují vztahy vznikající zaměstnavatelem či skupinami zaměstnavatelů</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="192">
+                         <title>kolektivní pracovní vztahy představují vztahy vznikající kolektivem zaměstnanců nebo jejich zástupci</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="193" type="1ofN">
+               <title>Mezi krajní prostředky řešení sporu o uzavření kolektivní smlouvy nepatří</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="194" right="yes">
+                         <score>10</score>
+                         <title>řízení před zprostředkovatelem</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="195">
+                         <title>stávka ze strany zaměstnanců</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="196">
+                         <title>výluka ze strany zaměstnavatele</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="197" type="1ofN">
+               <title>Zvláštní skupina pracovních vztahů, v nichž je jedním z účastníků stát, se nazývá</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="198">
+                         <title>průmyslové vztahy</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="199">
+                         <title>kolektivní vztahy</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="200" right="yes">
+                         <score>10</score>
+                         <title>tripartitní vztahy</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="201" type="1ofN">
+               <title>Přesný obsah kolektivní smlouvy</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="202">
+                         <title>je stanoven zákoníkem práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="203">
+                         <title>je stanoven zákonem o kolektivním vyjednávání</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="204" right="yes">
+                         <score>10</score>
+                         <title>není předepsán žádným zákonem</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="205" type="1ofN">
+               <title>Kolektivní smlouva se vztahuje</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="206">
+                         <title>pouze na odborově organizované zaměstnance</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="207" right="yes">
+                         <score>10</score>
+                         <title>i na odborově neorganizované zaměstnance</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+     </section>
+     <section ident="76" show_results="yes" showrightanswers="yes" terms_enabled="no">
+          <score>40</score>
+          <minscore>60</minscore>
+          <title>14 Programy pro uvolňované zaměstnance</title>
+          <comment/>
+          <maxattempts>2</maxattempts>
+          <timelimit>15</timelimit>
+          <question finaltest="false" ident="77" type="1ofN">
+               <title>Příčiny nadbytečnosti zaměstnanců vždy</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="78">
+                         <title>leží na straně organizace</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="79">
+                         <title>leží mimo organizaci</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="80" right="yes">
+                         <score>10</score>
+                         <title>mohou být na straně organizace i mimo organizaci</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="81" type="1ofN">
+               <title>Mezi možnosti minimalizace rozsahu nadbytečnosti nepatří</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="82">
+                         <title>snižování rozsahu přesčasové práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="83" right="yes">
+                         <score>10</score>
+                         <title>zvyšování rozsahu přesčasové práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="209">
+                         <title>zavedení kratší pracovní doby</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="210" type="1ofN">
+               <title>Koho musí zaměstnavatel informovat o hromadném propouštění</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="211">
+                         <title>zaměstnance, kterých se propouštění týká, odbory</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="212">
+                         <title>pouze odbory</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="213" right="yes">
+                         <score>10</score>
+                         <title>zaměstnance, kterých se propouštění týká, odbory a příslušný úřad práce</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="214" type="1ofN">
+               <title>Mezi nejčastěji poskytované outplacementové služby nepatří:</title>
+               <comment>Vyberte pouze jedno správné řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="215">
+                         <title>poradenství</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="216" right="yes">
+                         <score>10</score>
+                         <title>hledání nového zaměstnání</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="217">
+                         <title>rekvalifikace</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+     </section>
+</test>

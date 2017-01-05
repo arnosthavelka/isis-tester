@@ -21,4 +21,5 @@ public class IsisTesterApplication {
 		castor.setIgnoreExtraAttributes(true);
 		return castor;
 	}
+
 }

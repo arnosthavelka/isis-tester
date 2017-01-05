@@ -25,13 +25,10 @@
 	</properties>
 
 	<dependencies>
+		<!-- UI -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-data-rest</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-web</artifactId>
+			<artifactId>spring-boot-starter-thymeleaf</artifactId>
 		</dependency>
 		<!-- marshalling XML -->
 		<dependency>
@@ -43,7 +40,7 @@
 		    <artifactId>castor-xml</artifactId>
 		    <version>1.4.1</version>
 		</dependency>
-
+		<!-- testing -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>

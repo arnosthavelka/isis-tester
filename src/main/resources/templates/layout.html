@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	xmlns:layout="http://www.ultraq.net.nz/web/thymeleaf/layout">
+<head>
+	<title>ISIS Tester</title>
+	<link rel="stylesheet" th:href="@{/css/bootstrap.min.css}"
+		href="../../css/bootstrap.min.css" />
+	<link rel="icon" href="/static/favicon.ico" type="image/x-icon" />
+</head>
+<body>
+	<div class="container">
+		<div class="navbar">
+			<div class="navbar-inner">
+				<a class="brand"
+					href="https://insis.vse.cz/auth/?lang=cz">
+					ISIS </a>
+				<ul class="nav">
+					<li><a th:href="@{/test/3PA541}" > 3PA541</a></li>
+					<li><a th:href="@{/test/3PA542}" > 3PA542</a></li>
+					<li><a th:href="@{/test/3PA546}" > 3PA546</a></li>
+				</ul>
+			</div>
+		</div>
+		<h1 layout:fragment="header">Layout</h1>
+		<div layout:fragment="content">Fake content</div>
+	</div>
+</body>
+</html>
