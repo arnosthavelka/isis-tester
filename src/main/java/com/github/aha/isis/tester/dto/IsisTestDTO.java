@@ -7,6 +7,8 @@ public class IsisTestDTO implements Serializable {
 
 	private static final long serialVersionUID = 1L;
 
+	private String id;
+	
 	private String comment;
 	
 	private Collection<Section> sections;
@@ -25,6 +27,14 @@ public class IsisTestDTO implements Serializable {
 
 	public void setSections(Collection<Section> sections) {
 		this.sections = sections;
+	}
+
+	public String getId() {
+		return id;
+	}
+
+	public void setId(String id) {
+		this.id = id;
 	}
 
 }

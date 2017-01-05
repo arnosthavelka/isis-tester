@@ -24,9 +24,15 @@ public class XmlMarshaller {
 	private CastorMarshaller castor;
 	
 	@SuppressWarnings("unchecked")
-	public <T> T loadXML(String fileName) throws IOException {
-        StreamSource source = readFileSource(fileName);
-		return (T) this.castor.unmarshal(source);
+	public <T> T loadXML(String fileName) {
+        StreamSource source;
+		try {
+			source = readFileSource(fileName);
+			return (T) this.castor.unmarshal(source);
+		} catch (IOException e) {
+			throw new RuntimeException("XML loading error!", e);
+		}
+		
 	}
 
     /**

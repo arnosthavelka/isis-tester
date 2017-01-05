@@ -3,10 +3,10 @@
 	xmlns:layout="http://www.ultraq.net.nz/web/thymeleaf/layout"
 	layout:decorator="layout">
 <head>
-<title>Messages : View all</title>
+<title>Test processing</title>
 </head>
 <body>
-	<h1 layout:fragment="header">Test : <span th:text="${test}">XYZ</span></h1>
+	<h1 layout:fragment="header">Test : <span th:text="${dto.id}">XYZ</span></h1>
 	<div layout:fragment="content" class="container">
 		TODO
 	</div>
