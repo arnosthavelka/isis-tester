@@ -1,8 +1,12 @@
 package com.github.aha.isis.tester.dto;
 
-public class Settings {
+import java.io.Serializable;
 
-    private boolean fooEnabled;
+public class Settings implements Serializable {
+
+	private static final long serialVersionUID = 1L;
+
+	private boolean fooEnabled;
 
     public boolean isFooEnabled() {
         return fooEnabled;

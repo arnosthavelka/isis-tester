@@ -17,6 +17,8 @@ public class IsisTesterApplication {
 	public CastorMarshaller castor() {
 		CastorMarshaller castor = new CastorMarshaller();
 		castor.setMappingLocation(new ClassPathResource("mapping.xml"));
+		castor.setIgnoreExtraElements(true);
+		castor.setIgnoreExtraAttributes(true);
 		return castor;
 	}
 }

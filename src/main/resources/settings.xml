@@ -1,2 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<settings foo-enabled="false"/>
+<settings foo-enabled="false">
+	<title>Test title</title>
+</settings>
