@@ -3,30 +3,40 @@
 	xmlns:layout="http://www.ultraq.net.nz/web/thymeleaf/layout"
 	layout:decorator="layout">
 <head>
-<title>Test processing</title>
+<title>Test evaluation</title>
 </head>
 <body>
 	<h1 layout:fragment="header">Test : <span th:text="${dto.id}">XYZ</span></h1>
 	<div layout:fragment="content" class="container">
-		<!-- h3>Note : <span th:text="${dto.comment}">XYZ</span></h3-->
-		<table class="table table-bordered table-striped">
-			<thead>
-				<tr>
-					<td>Ident</td>
-					<td>Title</td>
-					<td>Min. score</td>
-					<td>Time limit</td>
-				</tr>
-			</thead>
-			<tbody>
-				<tr th:each="item : ${dto.sections}">
-					<td th:text="${item.ident}">1</td>
-					<td th:text="${item.title}">1</td>
-					<td th:text="${item.minScore}">1</td>
-					<td th:text="${item.timeLimit}">1</td>
-				</tr>
-			</tbody>
-		</table>
+		<div th:each="section : ${dto.sections}">
+			<h3 class="alert alert-info"><span th:text="${section.title}">No title</span> [Ident=<span th:text="${section.ident}">No ident</span>]</h3>
+			<p>
+				Min. score:<span th:text="${section.minScore}">No min. score</span>, 
+				Time limit:<span th:text="${section.timeLimit}">No time limit</span>,
+				Questions: <span th:text="${#lists.size(section.questions)}">No question</span>
+			</p>
+			
+			<div th:each="question : ${section.questions}">
+				<h3 class="alert alert-warning"><span th:text="${question.title}">No title</span></h3>
+				<em th:text="${question.comment}">No comment</em>
+				<em th:text="${question.type}">No type defined</em>
+			
+				<table class="table table-bordered table-striped">
+					<thead>
+						<tr>
+							<td>Ident</td>
+							<td>Title</td>
+						</tr>
+					</thead>
+					<tbody>
+						<tr th:each="response : ${question.responses}">
+							<td th:text="${response.ident}">1</td>
+							<td th:text="${response.title}">1</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
 	</div>
 </body>
 </html>
