@@ -1,6 +1,7 @@
 package com.github.aha.isis.tester;
 
 import java.io.IOException;
+import java.util.Collection;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -12,6 +13,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.util.CollectionUtils;
 
 import com.github.aha.isis.tester.dto.IsisTestDTO;
+import com.github.aha.isis.tester.dto.Question;
 import com.github.aha.isis.tester.dto.Section;
 import com.github.aha.isis.tester.service.XmlMarshaller;
 
@@ -37,6 +39,12 @@ public class IsisTestDTOTests {
         	LOG.debug("no. of params={}" , dto.getSections().size());
         	for (Section section : dto.getSections()) {
         		LOG.debug("Section [ident={}, title={}]", section.getIdent(), section.getTitle());
+        		Collection<Question> questions = section.getQuestions();
+        		if (!CollectionUtils.isEmpty(questions)) {
+        			for (Question question : questions) {
+        				LOG.debug("\tQuestion [ident={}, title={}]", question.getIdent(), question.getTitle());
+        			}
+        		}
 			}
         }
 	}

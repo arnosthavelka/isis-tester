@@ -1,6 +1,7 @@
 package com.github.aha.isis.tester.dto;
 
 import java.io.Serializable;
+import java.util.Collection;
 
 public class Section implements Serializable {
 
@@ -19,6 +20,8 @@ public class Section implements Serializable {
 	private Integer maxAttempts;
 	
 	private Integer timeLimit;
+	
+	private Collection<Question> questions;
 
 	public Integer getIdent() {
 		return ident;
@@ -74,6 +77,14 @@ public class Section implements Serializable {
 
 	public void setTimeLimit(Integer timeLimit) {
 		this.timeLimit = timeLimit;
+	}
+
+	public Collection<Question> getQuestions() {
+		return questions;
+	}
+
+	public void setQuestions(Collection<Question> questions) {
+		this.questions = questions;
 	}
 
 }
