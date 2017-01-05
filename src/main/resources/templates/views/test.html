@@ -8,7 +8,25 @@
 <body>
 	<h1 layout:fragment="header">Test : <span th:text="${dto.id}">XYZ</span></h1>
 	<div layout:fragment="content" class="container">
-		TODO
+		<!-- h3>Note : <span th:text="${dto.comment}">XYZ</span></h3-->
+		<table class="table table-bordered table-striped">
+			<thead>
+				<tr>
+					<td>Ident</td>
+					<td>Title</td>
+					<td>Min. score</td>
+					<td>Time limit</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr th:each="item : ${dto.sections}">
+					<td th:text="${item.ident}">1</td>
+					<td th:text="${item.title}">1</td>
+					<td th:text="${item.minScore}">1</td>
+					<td th:text="${item.timeLimit}">1</td>
+				</tr>
+			</tbody>
+		</table>
 	</div>
 </body>
 </html>
