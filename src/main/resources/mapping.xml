@@ -8,6 +8,15 @@
         <field name="fooEnabled" type="boolean">
             <bind-xml name="foo-enabled" node="attribute"/>
         </field>
+        
+        <field name="initParam" type="com.github.aha.isis.tester.dto.Param">
+            <bind-xml name="init-param" node="element"/>
+        </field>
+                
+		<field name="params" collection="collection" type="com.github.aha.isis.tester.dto.Param">
+			<bind-xml name="param" location="params" />
+		</field>
+	              
         <!-- field name="countryName" type="string">
             <bind-xml name="country-name" node="element"/>
         </field>
@@ -15,4 +24,16 @@
             <bind-xml name="pm-name" node="element"/>
         </field-->
     </class>
+ 
+     <class name="com.github.aha.isis.tester.dto.Param">
+        <map-to xml="param" />
+        
+        <field name="name" type="string">
+            <bind-xml name="name" node="element"/>
+        </field>
+        <field name="value" type="string">
+            <bind-xml name="value" node="element"/>
+        </field>
+    </class>
+ 
  </mapping>

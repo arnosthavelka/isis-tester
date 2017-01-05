@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <settings foo-enabled="false">
 	<title>Test title</title>
+
+	<init-param>
+		<name>author</name>
+		<value>AHA</value>
+	</init-param>
+
+	<params>
+		<param>
+			<name>name</name>
+			<value>isis-tester</value>
+		</param>
+		<param>
+			<name>src</name>
+			<value>GitHub</value>
+		</param>
+	</params>
 </settings>
