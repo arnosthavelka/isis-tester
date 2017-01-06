@@ -380,7 +380,7 @@
           <maxattempts>2</maxattempts>
           <timelimit>15</timelimit>
           <question finaltest="true" ident="85" type="MofN">
-               <title>Ztrátové čas se z hlediska příčin jejich vzniku standardně člení na:</title>
+               <title>Ztrátový čas se z hlediska příčin jejich vzniku standardně člení na:</title>
                <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
                <txtscore>0</txtscore>
                <image/>
@@ -504,7 +504,7 @@
                </response>
           </question>
           <question finaltest="true" ident="90" type="MofN">
-               <title>Eisenhowerů v princip se v Time managementu používá:</title>
+               <title>Eisenhowerův princip se v Time managementu používá:</title>
                <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
                <txtscore>0</txtscore>
                <image/>
