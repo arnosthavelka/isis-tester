@@ -3,7 +3,12 @@
 	xmlns:layout="http://www.ultraq.net.nz/web/thymeleaf/layout"
 	layout:decorator="layout">
 <head>
-<title>Test evaluation</title>
+	<title>Test evaluation</title>
+	<script type="text/javascript">
+		function evaluateTest(sectionIdent) {
+			alert('Section=' + sectionIdent);
+		}
+	</script>
 </head>
 <body>
 	<h1 layout:fragment="header">Test : <span th:text="${dto.id}">XYZ</span></h1>
@@ -11,6 +16,7 @@
 		<div th:each="section : ${dto.sections}">
 			<h3 class="alert alert-info"><span th:text="${section.title}">No title</span> [Ident=<span th:text="${section.ident}">No ident</span>]</h3>
 			<p>
+				<button type="button" class="btn btn-primary" th:onclick="'javascript:evaluateTest(' + ${section.ident} + ')'">Evaluate</button>
 				Min. score:<span th:text="${section.minScore}">No min. score</span>, 
 				Time limit:<span th:text="${section.timeLimit}">No time limit</span>,
 				Questions: <span th:text="${#lists.size(section.questions)}">No question</span>
