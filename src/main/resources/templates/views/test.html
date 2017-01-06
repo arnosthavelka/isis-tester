@@ -7,7 +7,7 @@
 	<script type="text/javascript">
 		/*<![CDATA[*/
 		function evaluateTest(sectionIdent) {
-	        var x = document.getElementsByName('section' + sectionIdent);
+	        var x = document.getElementsByName('rr-s' + sectionIdent);
 	        for (var i = 0; i < x.length; i++) {
 	        	x[i].style.visibility = "visible";
 	        }
@@ -16,11 +16,15 @@
 	</script>
 </head>
 <body>
-	<h1 layout:fragment="header">Test : <span th:text="${dto.id}">XYZ</span></h1>
+	<h1 layout:fragment="header" id="_top">Test : <span th:text="${dto.id}">XYZ</span></h1>
 	<div layout:fragment="content" class="container">
+		<span th:each="section : ${dto.sections}">
+			<a th:attr="href='#section' + ${section.ident} + ''"><span th:text="${section.title}">No title</span></a> |
+		</span>
 		<div th:each="section : ${dto.sections}">
-			<h3 class="alert alert-info"><span th:text="${section.title}">No title</span> [Ident=<span th:text="${section.ident}">No ident</span>]</h3>
+			<h3 th:attr="id='section' + ${section.ident} + ''" class="alert alert-info"><span th:text="${section.title}">No title</span> [Ident=<span th:text="${section.ident}">No ident</span>]</h3>
 			<p>
+				<a href="#_top"><span class="glyphicon glyphicon-upload"></span></a>
 				Min. score:<span th:text="${section.minScore}">No min. score</span>, 
 				Time limit:<span th:text="${section.timeLimit}">No time limit</span>,
 				Questions: <span th:text="${#lists.size(section.questions)}">No question</span>
@@ -36,7 +40,7 @@
 						<span th:case="'MofN'"><input type="checkbox" th:attr="name='response-s' + ${section.ident} + 'q' + ${question.ident} + ''" th:value="${response.ident}" /> <span th:text="${response.title}">No title</span></span>
 						<span th:case="'FIB'"><input type="text" th:attr="name='response-s' + ${section.ident} + 'q' + ${question.ident} + ''" th:value="${response.ident}" /></span>
 						<span th:case="*">Unknown question type!</span>
-						<span th:if="${response.right == 'yes'}" th:attr="name='section' + ${section.ident} + ''" class="label label-success" style="visibility:hidden">OK</span>
+						<span th:if="${response.right == 'yes'}" th:attr="name='rr-s' + ${section.ident} + ''" class="label label-success" style="visibility:hidden">OK</span>
 					</p>
 				</div>
 			</div>
