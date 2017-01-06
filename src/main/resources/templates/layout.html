@@ -9,18 +9,18 @@
 </head>
 <body>
 	<div class="container">
-		<div class="navbar">
-			<div class="navbar-inner">
-				<a class="brand"
-					href="https://insis.vse.cz/auth/?lang=cz">
-					ISIS </a>
-				<ul class="nav">
-					<li><a th:href="@{/test/3PA541}" > 3PA541</a></li>
-					<li><a th:href="@{/test/3PA542}" > 3PA542</a></li>
-					<li><a th:href="@{/test/3PA546}" > 3PA546</a></li>
-				</ul>
-			</div>
-		</div>
+		<nav class="navbar navbar-inverse">
+		  <div class="container-fluid">
+		    <div class="navbar-header">
+		    	<a class="navbar-brand" href="https://insis.vse.cz/auth/?lang=cz">ISIS</a>
+		    </div>
+		    <ul class="nav navbar-nav navbar-right">
+				<li><a th:href="@{/test/3PA541}" > 3PA541</a></li>
+				<li><a th:href="@{/test/3PA542}" > 3PA542</a></li>
+				<li><a th:href="@{/test/3PA546}" > 3PA546</a></li>
+		    </ul>
+		  </div>
+		</nav>	
 		<h1 layout:fragment="header">Layout</h1>
 		<div layout:fragment="content">Fake content</div>
 	</div>

@@ -16,7 +16,7 @@
 	</script>
 </head>
 <body>
-	<h1 layout:fragment="header" id="_top">Test : <span th:text="${dto.id}">XYZ</span></h1>
+	<h2 layout:fragment="header" id="_top">Test : <span th:text="${dto.id}">XYZ</span></h2>
 	<div layout:fragment="content" class="container">
 		<span th:each="section : ${dto.sections}">
 			<a th:attr="href='#section' + ${section.ident} + ''"><span th:text="${section.title}">No title</span></a> |
