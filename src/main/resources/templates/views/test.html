@@ -5,9 +5,16 @@
 <head>
 	<title>Test evaluation</title>
 	<script type="text/javascript">
+		/*<![CDATA[*/
 		function evaluateTest(sectionIdent) {
-			alert('Section=' + sectionIdent);
+	          var x = document.getElementsByName('section' + sectionIdent);
+	          var i;
+	          for (i = 0; i < x.length; i++) {
+	              x[i].style.visibility = "visible";
+	          }			
+			// alert('Section=' + sectionIdent);
 		}
+		/*]]>*/
 	</script>
 </head>
 <body>
@@ -25,22 +32,16 @@
 			<div th:each="question : ${section.questions}">
 				<h3 class="alert alert-warning"><span th:text="${question.title}">No title</span></h3>
 				<em th:text="${question.comment}">No comment</em>
-				<em th:text="${question.type}">No type defined</em>
-			
-				<table class="table table-bordered table-striped">
-					<thead>
-						<tr>
-							<td>Ident</td>
-							<td>Title</td>
-						</tr>
-					</thead>
-					<tbody>
-						<tr th:each="response : ${question.responses}">
-							<td th:text="${response.ident}">1</td>
-							<td th:text="${response.title}">1</td>
-						</tr>
-					</tbody>
-				</table>
+
+				<div th:each="response : ${question.responses}">
+					<p th:switch="${question.type}">
+						<span th:case="'1ofN'"><input type="radio" name="response" th:value="${response.ident}" /> <span th:text="${response.title}">No title</span></span>
+						<span th:case="'MofN'"><input type="checkbox" name="response" th:value="${response.ident}" /> <span th:text="${response.title}">No title</span></span>
+						<span th:case="'FIB'"><input type="text" name="response" th:value="${response.ident}" /></span>
+						<span th:case="*">Unknown question type!</span>
+						<span th:if="${response.right == 'yes'}" th:attr="name='section' + ${section.ident} + ''" class="label label-success" style="visibility:hidden">OK</span>
+					</p>
+				</div>
 			</div>
 		</div>
 	</div>
