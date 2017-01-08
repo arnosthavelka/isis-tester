@@ -1039,16 +1039,16 @@
                <txtscore>0</txtscore>
                <image/>
                <response ident="">
-                    <response_item ident="407" right="yes">
-                         <score>11</score>
-                         <title>druhu práce</title>
+                    <response_item ident="410" right="yes">
+                         <score>10</score>
+                         <title>kombinace denního a umělého osvětlení</title>
                          <feedback/>
                     </response_item>
-                    <response_item ident="408">
-                         <title>věku pracovníka</title>
+                    <response_item ident="411">
+                         <title>kombinace celkového a místního osvětlení</title>
                          <feedback/>
                     </response_item>
-                    <response_item ident="409">
+                    <response_item ident="412">
                          <title>žádná odpověď nevyhovuje</title>
                          <feedback/>
                     </response_item>
@@ -1060,16 +1060,16 @@
                <txtscore>0</txtscore>
                <image/>
                <response ident="">
-                    <response_item ident="410" right="yes">
-                         <score>10</score>
-                         <title>kombinace denního a umělého osvětlení</title>
+                    <response_item ident="407" right="yes">
+                         <score>11</score>
+                         <title>druhu práce</title>
                          <feedback/>
                     </response_item>
-                    <response_item ident="411">
-                         <title>kombinace celkového a místního osvětlení</title>
+                    <response_item ident="408">
+                         <title>věku pracovníka</title>
                          <feedback/>
                     </response_item>
-                    <response_item ident="412">
+                    <response_item ident="409">
                          <title>žádná odpověď nevyhovuje</title>
                          <feedback/>
                     </response_item>
