@@ -40,6 +40,11 @@
 		    <artifactId>castor-xml</artifactId>
 		    <version>1.4.1</version>
 		</dependency>
+		<!-- caching -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-cache</artifactId>
+        </dependency>		
 		<!-- testing -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
