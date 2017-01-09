@@ -6,12 +6,14 @@
 	<title>Test evaluation</title>
 	<script type="text/javascript">
 		/*<![CDATA[*/
+		/*
 		function evaluateTest(sectionIdent) {
 	        var x = document.getElementsByName('rr-s' + sectionIdent);
 	        for (var i = 0; i < x.length; i++) {
 	        	x[i].style.visibility = "visible";
 	        }
 		}
+		*/
 		function showResults(sectionIdent) {
 	        var x = document.getElementsByTagName("INPUT");
 	        for (var i = 0; i < x.length; i++) {
@@ -38,10 +40,21 @@
 		<span th:each="section : ${dto.sections}">
 			<a th:attr="href='#section' + ${section.ident} + ''"><span th:text="${section.title}">No title</span></a> |
 		</span>
+		<!-- evaluation hints -->
+		<div class="panel panel-default">
+			<div class="panel-heading">Evaluation hints</div>
+			<div class="panel-body">
+				<span class="label label-success">OK</span> - the correct answer was selected<br/>
+				<span class="label label-warning">Bad</span> - the correct answer was not selected<br/>
+				<span class="label label-danger">Bad</span> - the wrong answer was selected<br/>
+				<span class="label label-default">OK</span> -  the correct answer was not selected
+			</div>
+		</div>
+		<!-- sections -->
 		<div th:each="section : ${dto.sections}" class="panel panel-default">
 			<div class="panel-heading">
-				<h3 th:attr="id='section' + ${section.ident} + ''"><span th:text="${section.title}">No title</span> [Ident=<span th:text="${section.ident}">No ident</span>]</h3>
-				<button type="button" class="btn btn-primary" th:onclick="'javascript:showResults(' + ${section.ident} + ')'">Evaluate (new)</button>
+				<h3 th:attr="id='section' + ${section.ident} + ''"><span th:text="${section.title}">No title</span></h3>
+				<button type="button" class="btn btn-primary" th:onclick="'javascript:showResults(' + ${section.ident} + ')'">Evaluate</button>
 				<a href="#_top"><span class="glyphicon glyphicon-upload"></span></a>
 				Min. score:<span th:text="${section.minScore}">No min. score</span>, 
 				Time limit:<span th:text="${section.timeLimit}">No time limit</span>,
@@ -61,16 +74,16 @@
 					<div th:each="response : ${question.responses}">
 						<p th:switch="${question.type}">
 							<span th:case="'1ofN'"><input type="radio" th:attr="name='response-s' + ${section.ident} + 'q' + ${question.ident} + ''" th:value="${response.ident}" th:class="${response.right == 'yes' ? 'rightAnswer' : ''}" /> <span th:text="${response.title}">No title</span></span>
-							<span th:case="'MofN'"><input type="checkbox" th:attr="name='response-s' + ${section.ident} + 'q' + ${question.ident} + ''" th:value="${response.ident}" /> <span th:text="${response.title}">No title</span></span>
+							<span th:case="'MofN'"><input type="checkbox" th:attr="name='response-s' + ${section.ident} + 'q' + ${question.ident} + ''" th:value="${response.ident}" th:class="${response.right == 'yes' ? 'rightAnswer' : ''}" /> <span th:text="${response.title}">No title</span></span>
 							<span th:case="'FIB'" th:attr="name='rr-s' + ${section.ident} + ''" style="visibility:hidden"><input type="radio" th:attr="name='response-s' + ${section.ident} + 'q' + ${question.ident} + ''" th:value="${response.ident}" /> <span th:text="${response.title}">No title</span></span>
 							<span th:case="*">Unknown question type!</span>
-							<span th:if="${response.right == 'yes'}" th:attr="name='rr-s' + ${section.ident} + ''" class="label label-success" style="visibility:hidden">OK</span>
+							<!-- span th:if="${response.right == 'yes'}" th:attr="name='rr-s' + ${section.ident} + ''" class="label label-success" style="visibility:hidden">OK</span-->
 						</p>
 					</div>
 				</div>
 			</div>
 			<div class="panel-footer">
-				<button type="button" class="btn btn-primary" th:onclick="'javascript:evaluateTest(' + ${section.ident} + ')'">Evaluate</button>
+				<button type="button" class="btn btn-primary" th:onclick="'javascript:showResults(' + ${section.ident} + ')'">Evaluate</button>
 			</div>
 		</div>
 	</div>
