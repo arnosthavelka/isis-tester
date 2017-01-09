@@ -15,14 +15,17 @@
 		function showResults(sectionIdent) {
 	        var x = document.getElementsByTagName("INPUT");
 	        for (var i = 0; i < x.length; i++) {
-	        	var name = x[i].name;
-	        	if (name.startsWith('response-s' + sectionIdent + 'q')) {
-		        	var clazz = x[i].className;
-		        	if (clazz.includes("abc")) {
-		        		// x[i].innerHTML = '<span class="label label-success" >'+ x[i].value + '</span>';
-		        		var el = x[i].nextElementSibling;
-		        		el.innerHTML = '<span class="label label-success" >'+ el.innerText + '</span>';
+	        	var elIn = x[i];
+	        	if (elIn.name.startsWith('response-s' + sectionIdent + 'q')) {
+		        	var clazz = elIn.className;
+		        	var newClaz = 'default'; 
+		        	if (clazz.includes("rightAnswer")) {
+		        		newClaz = elIn.checked ? 'success' : 'warning';
+		        	} else {
+		        		newClaz = elIn.checked ? 'danger' : 'default';
 		        	}
+	        		var elSp = elIn.nextElementSibling;
+	        		elSp.innerHTML = '<span class="label label-' + newClaz + '" >'+ elSp.innerText + '</span>';
 	        	}; 
 	        }
 		}
@@ -57,7 +60,7 @@
 	
 					<div th:each="response : ${question.responses}">
 						<p th:switch="${question.type}">
-							<span th:case="'1ofN'"><input type="radio" th:attr="name='response-s' + ${section.ident} + 'q' + ${question.ident} + ''" th:value="${response.ident}" class="abc" /> <span th:text="${response.title}">No title</span></span>
+							<span th:case="'1ofN'"><input type="radio" th:attr="name='response-s' + ${section.ident} + 'q' + ${question.ident} + ''" th:value="${response.ident}" th:class="${response.right == 'yes' ? 'rightAnswer' : ''}" /> <span th:text="${response.title}">No title</span></span>
 							<span th:case="'MofN'"><input type="checkbox" th:attr="name='response-s' + ${section.ident} + 'q' + ${question.ident} + ''" th:value="${response.ident}" /> <span th:text="${response.title}">No title</span></span>
 							<span th:case="'FIB'" th:attr="name='rr-s' + ${section.ident} + ''" style="visibility:hidden"><input type="radio" th:attr="name='response-s' + ${section.ident} + 'q' + ${question.ident} + ''" th:value="${response.ident}" /> <span th:text="${response.title}">No title</span></span>
 							<span th:case="*">Unknown question type!</span>
