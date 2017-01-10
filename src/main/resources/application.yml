@@ -1,3 +1,7 @@
+data:
+  xml:
+    path: classpath:xml
+
 logging:
   level:
     com.github.aha: DEBUG
