@@ -27,7 +27,7 @@ public class IsisTestDTOTests {
      */
     private static final Logger LOG = LoggerFactory.getLogger(IsisTestDTOTests.class);
     
-	private static final String FILE_NAME = "xml/3PA541_test.xml";
+	private static final String FILE_NAME = "3PA541_test.xml";
 	
 	@Autowired
 	private XmlMarshaller xmlMarshaller;	
