@@ -50,8 +50,9 @@ public class XmlMarshaller {
         LOG.debug("Loading XML ({})", filename);
         Resource resource = resourceloader.getResource(filename);
         LOG.debug("XML name={}", resource.getFilename());
-        //Resource resource = ctx.getResource(filename);
-        return new StreamSource(resource.getInputStream());
+        //BufferedReader inputStream = new BufferedReader(new InputStreamReader(resource.getInputStream()));
+
+        return new StreamSource(resource.getFile());
     }
     
 }
