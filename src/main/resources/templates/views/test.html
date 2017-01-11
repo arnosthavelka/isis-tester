@@ -39,8 +39,10 @@
 <body>
 	<h2 layout:fragment="header" id="_top">Test : <span th:text="${dto.id}">XYZ</span></h2>
 	<div layout:fragment="content" class="container">
-		<span th:each="section : ${dto.sections}">
-			<a th:attr="href='#section' + ${section.ident} + ''"><span th:text="${section.title}">No title</span></a> |
+		<span th:each="section,stat : ${dto.sections}">
+			<a th:attr="href='#section' + ${section.ident} + ''" th:text="${section.title}" >No text</a>
+			<!--/* eliminate delimiter after last item */-->
+			<span th:if="${stat.index &lt; stat.size-1}"> | </span>
 		</span>
 		<!-- evaluation hints -->
 		<div class="panel panel-default">
