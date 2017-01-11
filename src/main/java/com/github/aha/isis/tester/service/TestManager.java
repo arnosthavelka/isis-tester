@@ -14,7 +14,7 @@ public class TestManager {
 	
 	@Cacheable("tests")
 	public IsisTestDTO loadData(String testID) {
-		IsisTestDTO dto = (IsisTestDTO) this.xmlMarshaller.loadXML(String.format("%s_test.xml", testID.toLowerCase()));
+		IsisTestDTO dto = (IsisTestDTO) this.xmlMarshaller.loadXML(String.format("%s_test.xml", testID));
 		return dto;
 	}
 

@@ -50,10 +50,10 @@ public class XmlMarshaller {
      * @throws IOException when load fails
      */
     private StreamSource readFileSource(String xmlFile) throws IOException {
-    	String filename = String.format("%s/%s", xmlPath, xmlFile.toLowerCase());
+    	String filename = String.format("%s/%s", xmlPath, xmlFile);
         LOG.debug("Loading XML ({})", filename);
         Resource resource = resourceloader.getResource(filename);
-        return new StreamSource(resource.getFile());
+        return new StreamSource(resource.getInputStream());        
     }
     
 }
