@@ -10,4 +10,8 @@ Java based UI for testing XML (from ISIS).
 * run as `java -jar isis-tester.jar`
 * access as [http://localhost:8080/](http://localhost:8080/)
 
-_Note: HTTP port can be changed by adding parameter `--server.port=8888` when starting java._
+## Hints
+### Define port
+HTTP port can be changed by adding parameter `--server.port=8888` when starting java.
+### Define XML files
+The usage of custom XML tests override default path to XML files as `--data.xml.path=file:///D:\aaa\xml` when starting java.

@@ -1,1 +1,1 @@
-java -Xdebug -Xrunjdwp:server=y,transport=dt_socket,address=8000,suspend=n -jar target\isis-tester-0.0.1-SNAPSHOT.jar
+java -Xdebug -Xrunjdwp:server=y,transport=dt_socket,address=8000,suspend=n -jar target\isis-tester-0.0.3-SNAPSHOT.jar

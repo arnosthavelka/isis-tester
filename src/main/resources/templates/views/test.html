@@ -38,22 +38,23 @@
 </head>
 <body>
 	<h2 layout:fragment="header" id="_top">Test : <span th:text="${dto.id}">XYZ</span></h2>
-	<div layout:fragment="content" class="container">
-		<span th:each="section,stat : ${dto.sections}">
-			<a th:attr="href='#section' + ${section.ident} + ''" th:text="${section.title}" >No text</a>
-			<!--/* eliminate delimiter after last item */-->
-			<span th:if="${stat.index &lt; stat.size-1}"> | </span>
-		</span>
+	<div layout:fragment="content">
+		<p>
+			<strong>Content:</strong><br/>
+			<span th:each="section,stat : ${dto.sections}">
+				<a th:attr="href='#section' + ${section.ident} + ''" th:text="${section.title}" >No text</a>
+				<!--/* eliminate delimiter after last item */-->
+				<span th:if="${stat.index &lt; stat.size-1}"> | </span>
+			</span>
+		</p>
 		<!-- evaluation hints -->
-		<div class="panel panel-default">
-			<div class="panel-heading">Evaluation hints</div>
-			<div class="panel-body">
-				<span class="label label-success">OK</span> - the correct answer was selected<br/>
-				<span class="label label-warning">Bad</span> - the correct answer was not selected<br/>
-				<span class="label label-danger">Bad</span> - the wrong answer was selected<br/>
-				<span class="label label-default">OK</span> -  the correct answer was not selected
-			</div>
-		</div>
+		<p>
+			<strong>Evaluation hints:</strong><br/>
+			<span class="label label-success">OK</span> - the correct answer was selected
+			<span class="label label-warning">Bad</span> - the correct answer was not selected
+			<span class="label label-danger">Bad</span> - the wrong answer was selected
+			<span class="label label-default">OK</span> -  the correct answer was not selected
+		</p>
 		<!-- sections -->
 		<div th:each="section : ${dto.sections}" class="panel panel-default">
 			<div class="panel-heading">
@@ -73,6 +74,7 @@
 					<!-- add input box for the correct answer -->
 					<div th:switch="${question.type}">
 						<span th:case="'FIB'"><input type="text" th:attr="name='response-s' + ${section.ident} + 'q' + ${question.ident} + ''" /></span>
+						<span th:case="'TXT'"><input type="text" th:attr="name='response-s' + ${section.ident} + 'q' + ${question.ident} + ''" /></span>
 					</div>
 	
 					<div th:each="response : ${question.responses}">
@@ -82,6 +84,9 @@
 							<span th:case="'FIB'" th:attr="name='hiddenResponse-s' + ${section.ident} + ''" style="visibility:hidden"><input type="radio" th:attr="name='field-s' + ${section.ident} + 'q' + ${question.ident} + ''" th:value="${response.ident}" /> <span th:text="${response.title}" class="label label-success">No title</span></span>
 							<span th:case="*">Unknown question type!</span>
 						</p>
+					</div>
+					<div th:if="${#lists.isEmpty(question.responses)}">
+						<span th:attr="name='hiddenResponse-s' + ${section.ident} + ''" style="visibility:hidden" class="label label-warning">The correct response is not available!</span>
 					</div>
 				</div>
 			</div>

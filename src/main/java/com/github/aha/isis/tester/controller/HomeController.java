@@ -7,12 +7,11 @@ import org.springframework.web.servlet.ModelAndView;
 
 @Controller
 @RequestMapping("/")
-public class HomeController {
-
+public class HomeController extends AbstractController {
 
 	@GetMapping
 	public ModelAndView list() {
-		return new ModelAndView("views/home");
+		return new ModelAndView("views/home", prepareParams("menuItems", manager.getTests()));
 	}
 	
 }

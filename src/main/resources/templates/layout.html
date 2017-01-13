@@ -9,20 +9,35 @@
 </head>
 <body>
 	<div class="container">
+		<!-- menu -->
 		<nav class="navbar navbar-inverse">
 		  <div class="container-fluid">
 		    <div class="navbar-header">
-		    	<a class="navbar-brand" href="https://github.com/arnosthavelka/isis-tester">ISIS Tester</a>
+		    	<a class="navbar-brand" th:href="@{/}">ISIS Tester</a>
 		    </div>
+		    <ul class="nav navbar-nav">
+		    	<li th:each="item : ${menuItems}"><a th:href="@{'/test/' + ${item}}" ><span th:text="${item}">No title</span></a></li>
+			</ul>
 		    <ul class="nav navbar-nav navbar-right">
-				<li><a th:href="@{/test/3PA541}" > 3PA541</a></li>
-				<li><a th:href="@{/test/3PA542}" > 3PA542</a></li>
-				<li><a th:href="@{/test/3PA546}" > 3PA546</a></li>
+				<li><a href="https://insis.vse.cz/auth/" > ISIS</a></li>
+				<li><a href="https://github.com/arnosthavelka/isis-tester"> Github repo</a></li>
 		    </ul>
 		  </div>
-		</nav>	
+		</nav>
+		<!-- page header -->
 		<h1 layout:fragment="header">Layout</h1>
-		<div layout:fragment="content">Fake content</div>
+		<div class="panel panel-default">
+			<div class="panel-body">
+				<!-- page content -->
+				<div layout:fragment="content">Fake content</div>
+			</div>
+			<!-- footer -->
+			<div class="panel-footer">
+				AHA &copy; 2017
+			    <span class="navbar-right" th:style="'padding-right: 15px;'" th:text="'Version ' + ${appVersion}">Version XYZ</span>
+			    &nbsp;
+			</div>
+		</div>
 	</div>
 </body>
 </html>

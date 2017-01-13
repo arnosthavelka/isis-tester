@@ -7,7 +7,6 @@ import javax.xml.transform.stream.StreamSource;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.io.Resource;
 import org.springframework.core.io.ResourceLoader;
 import org.springframework.oxm.castor.CastorMarshaller;
@@ -23,9 +22,6 @@ public class XmlMarshaller {
 
     @Autowired
     ResourceLoader resourceloader;
-    
-    @Value("${data.xml.path}")
-    private String xmlPath;
     
     @Autowired
 	private CastorMarshaller castor;
@@ -50,9 +46,8 @@ public class XmlMarshaller {
      * @throws IOException when load fails
      */
     private StreamSource readFileSource(String xmlFile) throws IOException {
-    	String filename = String.format("%s/%s", xmlPath, xmlFile);
-        LOG.debug("Loading XML ({})", filename);
-        Resource resource = resourceloader.getResource(filename);
+        LOG.debug("Loading XML ({})", xmlFile);
+        Resource resource = resourceloader.getResource(xmlFile);
         return new StreamSource(resource.getInputStream());        
     }
     

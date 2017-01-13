@@ -12,9 +12,10 @@ public class Question implements Serializable {
 	/**
 	 * Values:
 	 * <ul>
-	 * <li><strong>1ofN<strong> - radio box</li>
-	 * <li><strong>MofN<strong> - check box</li>
-	 * <li><strong>FIB<strong> - input box</li>
+	 * <li><strong>1ofN</strong> - radio box</li>
+	 * <li><strong>MofN</strong> - check box</li>
+	 * <li><strong>FIB</strong> - input box</li>
+	 * <li><strong>TXT</strong> - input box</li>
 	 * </ul>
 	 */
 	private String type;

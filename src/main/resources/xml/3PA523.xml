@@ -1,0 +1,2065 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test ident="">
+     <score/>
+     <minscore/>
+     <comment>Testy P__407</comment>
+     <section ident="2" show_results="" showrightanswers="yes" terms_enabled="no">
+          <score>20</score>
+          <minscore>60</minscore>
+          <title>Kapitola 1</title>
+          <comment/>
+          <maxattempts>0</maxattempts>
+          <timelimit>45</timelimit>
+          <question finaltest="true" ident="3" type="TXT">
+               <title>Proč je personální práce nejdůležitější oblastí řízení organizace?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="4" type="TXT">
+               <title>Jaké jsou charakteristické znaky nejnovější koncepce personální práce, známé jako řízení lidských zdrojů?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="5" type="TXT">
+               <title>Respektuje řízení lidských zdrojů více zájmy pracovníků než předcházející vývojová fáze personální práce, tedy personální řízení?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="6" type="TXT">
+               <title>Které personální činnosti rozhodují o celkové úrovni personální práce?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="7" type="TXT">
+               <title>Proč by se měli všichni vedoucí pracovníci podílet na personální práci?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="8" type="TXT">
+               <title>Proč by měl být vedoucí personálního útvaru stálým členem nejužšího vedení organizace?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="9" type="MofN">
+               <title>Charakteristické rysy nejnovější koncepce personální práce jsou:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="10" right="yes">
+                         <score>1</score>
+                         <title>strategický přístup k personální práci</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="11">
+                         <title>výrazná orientace na vytváření životního prostředí</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="12" right="yes">
+                         <score>1</score>
+                         <title>orientace na participativní přístup k personální práci</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="13" type="MofN">
+               <title>Mezi hlavní úkoly řízení lidských zdrojů patří:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="14">
+                         <title>pečlivé získávání a výběr pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="15" right="yes">
+                         <score>2</score>
+                         <title>personální a sociální rozvoj pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="16">
+                         <title>vzdělávání a rozvoj pracovníků</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="17" type="MofN">
+               <title>Vztah mezi personální politikou a personální strategií je následující:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="18">
+                         <title>personální strategie vychází z personální politiky</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="19" right="yes">
+                         <score>2</score>
+                         <title>personální politika vychází z personální strategie</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="21" type="MofN">
+               <title>Vedoucí pracovníci (nepersonalisté) hrají rozhodující roli v následujících personálních činnostech:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="22">
+                         <title>vzdělávání pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="23">
+                         <title>odměňování pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="24" right="yes">
+                         <score>2</score>
+                         <title>hodnocení pracovníků</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+     </section>
+     <section ident="26" show_results="" showrightanswers="yes" terms_enabled="no">
+          <score>19</score>
+          <minscore>60</minscore>
+          <title>Kapitola 2</title>
+          <comment/>
+          <maxattempts>0</maxattempts>
+          <timelimit>45</timelimit>
+          <question finaltest="true" ident="27" type="TXT">
+               <title>Je efektivnější metodou obohacování práce, delegování pravomocí nebo posilování pravomocí?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="28" type="TXT">
+               <title>Proč se ustupuje od čistě mechanistického přístupu k vytváření pracovních míst a upřednostňuje se motivační přístup?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="29" type="TXT">
+               <title>Jaký je vztah vytváření pracovních míst a analýzy pracovních míst?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="30" type="TXT">
+               <title>Které personální činnosti nelze efektivně provádět, aniž bychom měli k dispozici pečlivě zpracované popisy a specifikace pracovních míst a proč?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="31" type="TXT">
+               <title>Co je smyslem redesignu pracovních míst? </title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="32" type="MofN">
+               <title>Při vytváření pracovních míst musíme věnovat pozornost:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="33" right="yes">
+                         <score>0</score>
+                         <title>obsahu práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="34" right="yes">
+                         <score>1</score>
+                         <title>metodám práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="35">
+                         <title>pracovní době</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="36" type="MofN">
+               <title>Rozdíl mezi delegováním pravomocí a posilováním pravomocí spočívá v tom, že:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="37" right="yes">
+                         <score>2</score>
+                         <title>delegování pravomocí je operativnější formou vytváření pracovních úkolů</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="38">
+                         <title>posilování pravomocí je operativnější formou vytváření pracovních úkolů</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="44" type="MofN">
+               <title>Jedním z nástrojů překonávání jednostranného zatížení organismu a monotónnosti práce a zároveň i metodou vzdělávání na pracovišti je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="45">
+                         <title>rozšiřování práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="46">
+                         <title>obohacování práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="47" right="yes">
+                         <score>2</score>
+                         <title>rotace práce</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="48" type="MofN">
+               <title>V současné době je za nejlepší přístup k vytváření pracovních míst považován přístup:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="49">
+                         <title>mechanistický</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="50">
+                         <title>biologický (ergonomický)</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="51" right="yes">
+                         <score>2</score>
+                         <title>motivační</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="20" type="MofN">
+               <title>Vztah mezi popisem a specifikací pracovního místa je následující:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="25">
+                         <title>popis vychází ze specifikace</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="39" right="yes">
+                         <score>2</score>
+                         <title>specifikace vychází z popisu</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+     </section>
+     <section ident="42" show_results="" showrightanswers="yes" terms_enabled="no">
+          <score>18</score>
+          <minscore>30</minscore>
+          <title>Kapitola 3</title>
+          <comment/>
+          <maxattempts>0</maxattempts>
+          <timelimit>45</timelimit>
+          <question finaltest="true" ident="43" type="TXT">
+               <title>Zvažte, jak podobu personální plánování modifikuje proces globalizace a značná proměnlivost podmínek v nichž současné organizace fungují.</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="52" type="TXT">
+               <title>Proč je personální plánování jádrem celé plánovací činnosti organizace?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="53" type="TXT">
+               <title>Proč je pro organizaci důležité, aby věnovala mimořádnou pozornost plánování personálního rozvoje svých pracovníků?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="54" type="TXT">
+               <title>Co je třeba brát v úvahu při plánování potřeby pracovníků a plánování jejího pokrytí? </title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="false" ident="55" type="MofN">
+               <title>Personální plánování se zaměřuje na následující oblasti:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="56" right="yes">
+                         <score>2</score>
+                         <title>plánování pokrytí potřeby pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="57">
+                         <title>plánování reprodukce pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="58">
+                         <title>plánování vzdělávání pracovníků</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="59" type="MofN">
+               <title>Plán personálního rozvoje, který se vypracovává pro jednotlivé pracovníky se nazývá:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="60" right="yes">
+                         <score>2</score>
+                         <title>plán kariéry</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="61">
+                         <title>plán následnictví</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="62">
+                         <title>plán vzdělávání</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="63" type="MofN">
+               <title>Plány personálních činností v podstatě řeší problém rozdílu mezi potřebou pracovníků a možnostmi jejího pokrytí. Zvláštní postavení mezi nimi mají plány jedné z personálních činností, které nemají přímou vazbu k řešení tohoto problému, nicméně jejich dopad může být dosti závažný. Jsou to:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="64">
+                         <title>plány získávání a výběru pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="65" right="yes">
+                         <score>2</score>
+                         <title>plány hodnocení pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="66">
+                         <title>plány vzdělávání a rozvoje pracovníků  </title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="67" type="MofN">
+               <title>V personálním plánování v moderních podnicích hrají stále větší roli:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="68">
+                         <title>personalisté</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="69">
+                         <title>vrcholoví manažeři</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="70" right="yes">
+                         <score>2</score>
+                         <title>vedoucí pracovníci nejmenších organizačních jednotek (skupin, týmů, oddělení) </title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="71" type="MofN">
+               <title>Dlouhodobé plánování také bývá označováno jako plánování:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="72">
+                         <title>taktické</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="73" right="yes">
+                         <score>2</score>
+                         <title>strategické</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="74">
+                         <title>manažerské</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+     </section>
+     <section ident="77" show_results="" showrightanswers="yes" terms_enabled="no">
+          <score>18</score>
+          <minscore>65</minscore>
+          <title>Kapitola 4</title>
+          <comment/>
+          <maxattempts>0</maxattempts>
+          <timelimit>45</timelimit>
+          <question finaltest="true" ident="78" type="TXT">
+               <title>Domníváte se, že české organizace provádějí spíše tradiční nábor pracovníků než moderní získávání pracovníků odpovídající koncepci řízení lidských zdrojů?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="79" type="TXT">
+               <title>Domníváte se, že u nás dochází již ve fázi získávání pracovníků k diskriminaci některých kategorií potenciálních uchazečů? Jestliže ano, pak zvažte, jaké má tato diskriminace příčiny.</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="80" type="TXT">
+               <title>Pracujete v podniku, který potřebuje obsadit funkci finančního ředitele, funkci řadového personalisty, pracovní místo elektrikáře a pracovní místo v podatelně. Jaké metody získávání pracovníků byste použili, a kam byste ji umístili (uveďte např. konkrétní periodikum)?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="81" type="TXT">
+               <title>Co byste navrhli pro to, aby byla práce učitele vysoké školy atraktivnější pro čerstvé absolventy vysokých škol a mladé lidi vůbec?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="82" type="MofN">
+               <title>Moderní získávání pracovníků se od náboru pracovníků odlišuje:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="83">
+                         <title>výraznou orientací na rychlost obsazení pracovního místa</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="84" right="yes">
+                         <score>1</score>
+                         <title>výraznou strategickou orientací</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="85" right="yes">
+                         <score>1</score>
+                         <title>výraznou orientací na osobnostní charakteristiky pracovní síly</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="86" type="MofN">
+               <title>Mezi vnější podmínky ovlivňující odezvu na nabídku zaměstnání patří:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="87" right="yes">
+                         <score>1</score>
+                         <title>proměnlivost reprodukce obyvatelstva</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="88">
+                         <title>politická situace ve společnosti</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="89" right="yes">
+                         <score>1</score>
+                         <title>služby trhu práce</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="90" type="MofN">
+               <title>Strukturovaný životopis je vhodné vyžadovat v případě, že:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="91">
+                         <title>máme podnikový dotazník pro uchazeče</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="92" right="yes">
+                         <score>2</score>
+                         <title>nemáme podnikový dotazník pro uchazeče</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="93">
+                         <title>ve všech případech</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="94" type="MofN">
+               <title>Do procesu získávání pracovníků patří následující kroky:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="95">
+                         <title>identifikace potřeby pracovních míst</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="96" right="yes">
+                         <score>2</score>
+                         <title>revize popisu a specifikace pracovního místa</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="97">
+                         <title>zkoumání referencí</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="98" type="MofN">
+               <title>Personální marketing slouží:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="99" right="yes">
+                         <score>1</score>
+                         <title>získávání pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="100">
+                         <title>výběru pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="101" right="yes">
+                         <score>1</score>
+                         <title>stabilizaci pracovníků</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+     </section>
+     <section ident="104" show_results="" showrightanswers="yes" terms_enabled="no">
+          <score>20</score>
+          <minscore>60</minscore>
+          <title>Kapitola 5</title>
+          <comment/>
+          <maxattempts>0</maxattempts>
+          <timelimit>45</timelimit>
+          <question finaltest="true" ident="105" type="TXT">
+               <title>Výběr pracovníků je důležitou personální činností pro každou organizaci, ale mimořádně důležitý je pečlivý výběr pracovníků v malých firmách. Zvažte, proč tomu tak je právě v nich.</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="106" type="TXT">
+               <title>Jaký postup byste zvolili a které metody výběru použili při výběru na pracovní místo a) provozního inženýra, b) elektrikáře, c) skladníka, d) kuchařky do závodní jídelny? </title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="107" type="TXT">
+               <title>Ředitel podniku je přesvědčen, že je třeba používat jako hlavní metodu výběru pracovníků psychologické testy. Jak byste argumentovali proti tomuto jeho přesvědčení a co byste mu doporučili jako rozhodující metodu výběru pracovníků a proč?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="108" type="MofN">
+               <title>Jak byste charakterizovali používané metody výběru pracovníků?</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="109">
+                         <title>všechny běžně používané jsou plně spolehlivé a validní</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="110">
+                         <title>některé běžně používané jsou plně spolehlivé a validní, jiné nikoliv</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="111" right="yes">
+                         <score>2</score>
+                         <title>všechny běžně používané jsou málo spolehlivé a validní</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="112" type="MofN">
+               <title>Mezi metodami výběru pracovníků jsou některé, které bychom měli použít vždy. Patří mezi ně:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="113">
+                         <title>testy pracovní způsobilosti</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="114" right="yes">
+                         <score>1</score>
+                         <title>výběrový pohovor</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="115" right="yes">
+                         <score>1</score>
+                         <title>zkoumání dokumentů předložených uchazečem</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="116" type="MofN">
+               <title>Některé používané metody výběru pracovníků mají nulovou nebo nule se blížící spolehlivost a validitu. Patří mezi ně:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="117">
+                         <title>testy inteligence</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="118" right="yes">
+                         <score>1</score>
+                         <title>grafologické testy</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="119" right="yes">
+                         <score>1</score>
+                         <title>typologické (frenologické) metody</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="120" type="MofN">
+               <title>Assessment centre je anglický výraz, který se u nás již vžil. Kdybyste jej však měli nahradit nějakým českým výrazem, nejlépe by jeho podstatu vystihoval výraz:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="121">
+                         <title>hodnotící středisko</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="122" right="yes">
+                         <score>2</score>
+                         <title>diagnostický program</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="123">
+                         <title>vyhodnocovací zařízení</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="124" type="MofN">
+               <title>Nejvhodnější metodou výběru při obsazování nižších manažerských funkcí z řad čerstvých absolventů škol je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="125">
+                         <title>assessment centre</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="126" right="yes">
+                         <score>2</score>
+                         <title>výběrový pohovor</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="127">
+                         <title>testy inteligence</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="128" type="MofN">
+               <title>Nejlepší typ výběrového pohovoru je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="129">
+                         <title>strukturovaný pohovor 1 + 1</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="130">
+                         <title>strukturovaný pohovor před panelem</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="131" right="yes">
+                         <score>2</score>
+                         <title>polostrukturovaný pohovor před panelem</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="132">
+                         <title>postupný strukturovaný pohovor 1 + 1</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="false" ident="133" type="MofN">
+               <title>Mezi hlavní cíle výběrového pohovoru patří:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="134" right="yes">
+                         <score>1</score>
+                         <title>posoudit osobnost uchazeče</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="135" right="yes">
+                         <score>1</score>
+                         <title>poskytnout uchazeči informace o organizaci a práci v ní</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="136">
+                         <title>prozkoumat rodinné zázemí uchazeče </title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+     </section>
+     <section ident="138" show_results="" showrightanswers="yes" terms_enabled="no">
+          <score>22</score>
+          <minscore>60</minscore>
+          <title>Kapitola 7</title>
+          <comment/>
+          <maxattempts>0</maxattempts>
+          <timelimit>45</timelimit>
+          <question finaltest="true" ident="139" type="TXT">
+               <title>Čím byste argumentovali, kdybyste chtěli ve své organizaci prosadit koncepci řízení pracovního výkonu?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="140" type="TXT">
+               <title>Formální, systematické hodnocení pracovníků přináší organizaci řadu výhod. Zvažte, jaké výhody může přinést toto hodnocení samotným pracovníkům.</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="141" type="TXT">
+               <title>Která metoda hodnocení pracovníků je pravděpodobně nejuniverzálnější, využitelná a přijatelná pro všechny strany, které se na hodnocení podílejí, a tedy nejvhodnější?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="142" type="TXT">
+               <title>Jak byste připravili hodnotící rozhovor?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="143" type="TXT">
+               <title>Zamyslete se nad tím, jakých chyb hodnocení byste se asi při své povaze dopouštěli.</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="144" type="TXT">
+               <title>Na co byste se měli zaměřit při prověřování efektivnosti systému hodnocení pracovníků?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="145" type="MofN">
+               <title>Hodnocení pracovníků se zabývá zjišťováním toho,</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="146" right="yes">
+                         <score>2</score>
+                         <title>jak pracovník vykonává svou práci</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="147">
+                         <title>jakou má pracovník kvalifikaci</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="148">
+                         <title>jak je jeho práce náročná</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="149" type="MofN">
+               <title>Bez hodnocení pracovníků nelze efektivně provádět následující personální činnosti:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="150">
+                         <title>přijímání pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="151">
+                         <title>orientaci pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="152" right="yes">
+                         <score>2</score>
+                         <title>vzdělávání pracovníků</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="153" type="MofN">
+               <title>Nejdůležitější fází hodnocení pracovníků je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="154">
+                         <title>zjišťování toho, jak pracovník vykonává svou práci</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="155" right="yes">
+                         <score>2</score>
+                         <title>hodnotící rozhovor</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="156">
+                         <title>hledání cest ke zlepšení</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="157" type="MofN">
+               <title>Důležitým prvkem řízení pracovního výkonu je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="158" right="yes">
+                         <score>1</score>
+                         <title>smlouva o pracovním výkonu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="159" right="yes">
+                         <score>1</score>
+                         <title>smlouva o vzdělávání a rozvoji</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="160">
+                         <title>pracovní smlouva</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="161" type="MofN">
+               <title>Řízení pracovního výkonu představuje integrovanější přístup. Integruje v sobě:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="162">
+                         <title>hodnocení pracovníků, získávání pracovníků a výběr pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="163">
+                         <title>hodnocení pracovníků, rozmísťování pracovníků a vzdělávání pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="164" right="yes">
+                         <score>2</score>
+                         <title>hodnocení pracovníků, odměňování pracovníků a vzdělávání pracovníků</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+     </section>
+     <section ident="167" show_results="" showrightanswers="yes" terms_enabled="no">
+          <score>20</score>
+          <minscore>60</minscore>
+          <title>Kapitola 9</title>
+          <comment/>
+          <maxattempts>0</maxattempts>
+          <timelimit>45</timelimit>
+          <question finaltest="true" ident="168" type="TXT">
+               <title>Proč je vzdělávání pracovníků zabezpečované organizací v současné době tak důležité?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="169" type="TXT">
+               <title>Zvažte, proč v průběhu 90. let došlo k dosti podstatnému omezování prostředků i času vynaloženého na vzdělávání pracovníků v českých organizacích a proč to bylo výraznější u administrativních a manuálních pracovníků.</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="171" type="TXT">
+               <title>Organizace pro vzdělávání svých pracovníků občas využívají komerční externí vzdělávací instituce. Čím by se měly řídit při jejich výběru?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="172" type="TXT">
+               <title>Manažer určitého podniku se na vás obrátil se žádostí, abyste mu poradili s analýzou efektivnosti vzdělávání pro jeho podnik. Chtěl by přitom vědět, jaký efekt vyjádřený v korunách bude mít jedna koruna investovaná do vzdělávání pracovníků. Co byste mu odpověděli?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="173" type="MofN">
+               <title>Nejdůležitější personální činností v 21. století je vzdělávání a rozvoj pracovníků. Je tomu tak proto, že:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="174" right="yes">
+                         <score>1</score>
+                         <title>zabezpečuje organizaci pracovní sílu představující konkurenční výhodu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="175">
+                         <title>zabezpečuje zdravé mezilidské vztahy v organizaci</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="176" right="yes">
+                         <score>1</score>
+                         <title>zabezpečuje, že bude organizace atraktivním zaměstnavatelem</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="177" type="MofN">
+               <title>Podnikové vzdělávání pracovníků se zaměřuje na:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="178" right="yes">
+                         <score>1</score>
+                         <title>doškolování</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="179" right="yes">
+                         <score>1</score>
+                         <title>orientaci</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="180">
+                         <title>přípravu učňů na dělnická povolání</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="181" type="MofN">
+               <title>Jednou z fází systematického podnikového vzdělávání pracovníků je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="182">
+                         <title>návrh rozpočtu vzdělávání</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="183">
+                         <title>návrh programu vzdělávání</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="184" right="yes">
+                         <score>2</score>
+                         <title>identifikace potřeby vzdělávání</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="185" type="MofN">
+               <title>Mezi metody používané ke vzdělávání mimo pracoviště patří:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="186">
+                         <title>counselling</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="187" right="yes">
+                         <score>1</score>
+                         <title>workshop</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="188" right="yes">
+                         <score>1</score>
+                         <title>adventure education</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="189" type="MofN">
+               <title>V poslední době se v personalistice používají termíny &quot;rozvoj pracovníků&quot; a &quot;rozvoj lidských zdrojů&quot;.</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="190">
+                         <title>je to totéž</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="191" right="yes">
+                         <score>2</score>
+                         <title>rozvojem pracovníků se rozumí rozvoj jedinců a rozvojem lidských zdrojů rozvoj kolektivní pracovní síly</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="192">
+                         <title>rozvojem pracovníků se rozumí rozvoj kolektivní pracovní síly a rozvojem lidských zdrojů rozvoj jedinců</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="193" type="MofN">
+               <title>Vzdělávání pracovníků v progresivních organizacích se vyznačuje tím, že:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="194" right="yes">
+                         <score>2</score>
+                         <title>jde stále více o vzdělávání na pracovišti při výkonu práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="195">
+                         <title>jde stále více o vzdělávání mimo pracoviště</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="196">
+                         <title>jde u manažerů o vzdělávání mimo pracoviště a u manuálních pracovníků o vzdělávání na pracovišti</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+     </section>
+     <section ident="198" show_results="" showrightanswers="yes" terms_enabled="no">
+          <score>129</score>
+          <minscore>60</minscore>
+          <title>Závěrečný test</title>
+          <comment/>
+          <maxattempts>1</maxattempts>
+          <timelimit>60</timelimit>
+          <random useglobalminscore="true">
+               <part highindex="65" lowindex="1">
+                    <questions>30</questions>
+                    <minscore>0</minscore>
+               </part>
+          </random>
+          <question finaltest="true" ident="199" type="TXT">
+               <title>Proč je personální práce nejdůležitější oblastí řízení organizace?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="200" type="TXT">
+               <title>Jaké jsou charakteristické znaky nejnovější koncepce personální práce, známé jako řízení lidských zdrojů?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="201" type="TXT">
+               <title>Respektuje řízení lidských zdrojů více zájmy pracovníků než předcházející vývojová fáze personální práce, tedy personální řízení?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="202" type="TXT">
+               <title>Které personální činnosti rozhodují o celkové úrovni personální práce?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="203" type="TXT">
+               <title>Proč by se měli všichni vedoucí pracovníci podílet na personální práci?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="204" type="TXT">
+               <title>Proč by měl být vedoucí personálního útvaru stálým členem nejužšího vedení organizace?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="205" type="MofN">
+               <title>Charakteristické rysy nejnovější koncepce personální práce jsou:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="206" right="yes">
+                         <score>1</score>
+                         <title>strategický přístup k personální práci</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="207">
+                         <title>výrazná orientace na vytváření životního prostředí</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="208" right="yes">
+                         <score>1</score>
+                         <title>orientace na participativní přístup k personální práci</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="209" type="MofN">
+               <title>Mezi hlavní úkoly řízení lidských zdrojů patří:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="210">
+                         <title>pečlivé získávání a výběr pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="211" right="yes">
+                         <score>2</score>
+                         <title>personální a sociální rozvoj pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="212">
+                         <title>vzdělávání a rozvoj pracovníků</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="213" type="MofN">
+               <title>Vztah mezi personální politikou a personální strategií je následující:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="214">
+                         <title>personální strategie vychází z personální politiky</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="215" right="yes">
+                         <score>2</score>
+                         <title>personální politika vychází z personální strategie</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="216" type="MofN">
+               <title>Vedoucí pracovníci (nepersonalisté) hrají rozhodující roli v následujících personálních činnostech:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="217">
+                         <title>vzdělávání pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="218">
+                         <title>odměňování pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="219" right="yes">
+                         <score>2</score>
+                         <title>hodnocení pracovníků</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="220" type="TXT">
+               <title>Je efektivnější metodou obohacování práce, delegování pravomocí nebo posilování pravomocí?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="221" type="TXT">
+               <title>Proč se ustupuje od čistě mechanistického přístupu k vytváření pracovních míst a upřednostňuje se motivační přístup?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="222" type="TXT">
+               <title>Jaký je vztah vytváření pracovních míst a analýzy pracovních míst?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="223" type="TXT">
+               <title>Které personální činnosti nelze efektivně provádět, aniž bychom měli k dispozici pečlivě zpracované popisy a specifikace pracovních míst a proč?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="224" type="TXT">
+               <title>Co je smyslem redesignu pracovních míst? </title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="225" type="MofN">
+               <title>Při vytváření pracovních míst musíme věnovat pozornost:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="226" right="yes">
+                         <score>0</score>
+                         <title>obsahu práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="227" right="yes">
+                         <score>1</score>
+                         <title>metodám práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="228">
+                         <title>pracovní době</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="229" type="MofN">
+               <title>Rozdíl mezi delegováním pravomocí a posilováním pravomocí spočívá v tom, že:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="230" right="yes">
+                         <score>2</score>
+                         <title>delegování pravomocí je operativnější formou vytváření pracovních úkolů</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="231">
+                         <title>posilování pravomocí je operativnější formou vytváření pracovních úkolů</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="232" type="MofN">
+               <title>Jedním z nástrojů překonávání jednostranného zatížení organismu a monotónnosti práce a zároveň i metodou vzdělávání na pracovišti je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="233">
+                         <title>rozšiřování práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="234">
+                         <title>obohacování práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="235" right="yes">
+                         <score>2</score>
+                         <title>rotace práce</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="236" type="MofN">
+               <title>Vztah mezi popisem a specifikací pracovního místa je následující:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="237">
+                         <title>popis vychází ze specifikace</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="238" right="yes">
+                         <score>2</score>
+                         <title>specifikace vychází z popisu</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="239" type="TXT">
+               <title>Zvažte, jak podobu personální plánování modifikuje proces globalizace a značná proměnlivost podmínek v nichž současné organizace fungují.</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="240" type="TXT">
+               <title>Proč je personální plánování jádrem celé plánovací činnosti organizace?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="241" type="TXT">
+               <title>Proč je pro organizaci důležité, aby věnovala mimořádnou pozornost plánování personálního rozvoje svých pracovníků?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="242" type="TXT">
+               <title>Co je třeba brát v úvahu při plánování potřeby pracovníků a plánování jejího pokrytí? </title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="243" type="MofN">
+               <title>Plán personálního rozvoje, který se vypracovává pro jednotlivé pracovníky se nazývá:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="244" right="yes">
+                         <score>2</score>
+                         <title>plán kariéry</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="245">
+                         <title>plán následnictví</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="246">
+                         <title>plán vzdělávání</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="247" type="MofN">
+               <title>Plány personálních činností v podstatě řeší problém rozdílu mezi potřebou pracovníků a možnostmi jejího pokrytí. Zvláštní postavení mezi nimi mají plány jedné z personálních činností, které nemají přímou vazbu k řešení tohoto problému, nicméně jejich dopad může být dosti závažný. Jsou to:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="248">
+                         <title>plány získávání a výběru pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="249" right="yes">
+                         <score>2</score>
+                         <title>plány hodnocení pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="250">
+                         <title>plány vzdělávání a rozvoje pracovníků  </title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="251" type="MofN">
+               <title>V personálním plánování v moderních podnicích hrají stále větší roli:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="252">
+                         <title>personalisté</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="253">
+                         <title>vrcholoví manažeři</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="254" right="yes">
+                         <score>2</score>
+                         <title>vedoucí pracovníci nejmenších organizačních jednotek (skupin, týmů, oddělení) </title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="255" type="MofN">
+               <title>Dlouhodobé plánování také bývá označováno jako plánování:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="256">
+                         <title>taktické</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="257" right="yes">
+                         <score>2</score>
+                         <title>strategické</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="258">
+                         <title>manažerské</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="259" type="TXT">
+               <title>Domníváte se, že české organizace provádějí spíše tradiční nábor pracovníků než moderní získávání pracovníků odpovídající koncepci řízení lidských zdrojů?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="260" type="TXT">
+               <title>Domníváte se, že u nás dochází již ve fázi získávání pracovníků k diskriminaci některých kategorií potenciálních uchazečů? Jestliže ano, pak zvažte, jaké má tato diskriminace příčiny.</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="261" type="TXT">
+               <title>Pracujete v podniku, který potřebuje obsadit funkci finančního ředitele, funkci řadového personalisty, pracovní místo elektrikáře a pracovní místo v podatelně. Jaké metody získávání pracovníků byste použili, a kam byste ji umístili (uveďte např. konkrétní periodikum)?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="262" type="TXT">
+               <title>Co byste navrhli pro to, aby byla práce učitele vysoké školy atraktivnější pro čerstvé absolventy vysokých škol a mladé lidi vůbec?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="263" type="MofN">
+               <title>Moderní získávání pracovníků se od náboru pracovníků odlišuje:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="264">
+                         <title>výraznou orientací na rychlost obsazení pracovního místa</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="265" right="yes">
+                         <score>1</score>
+                         <title>výraznou strategickou orientací</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="266" right="yes">
+                         <score>1</score>
+                         <title>výraznou orientací na osobnostní charakteristiky pracovní síly</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="267" type="MofN">
+               <title>Mezi vnější podmínky ovlivňující odezvu na nabídku zaměstnání patří:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="268" right="yes">
+                         <score>1</score>
+                         <title>proměnlivost reprodukce obyvatelstva</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="269">
+                         <title>politická situace ve společnosti</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="270" right="yes">
+                         <score>1</score>
+                         <title>služby trhu práce</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="271" type="MofN">
+               <title>Do procesu získávání pracovníků patří následující kroky:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="272">
+                         <title>identifikace potřeby pracovních míst</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="273" right="yes">
+                         <score>2</score>
+                         <title>revize popisu a specifikace pracovního místa</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="274">
+                         <title>zkoumání referencí</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="275" type="MofN">
+               <title>Personální marketing slouží:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="276" right="yes">
+                         <score>1</score>
+                         <title>získávání pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="277">
+                         <title>výběru pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="278" right="yes">
+                         <score>1</score>
+                         <title>stabilizaci pracovníků</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="279" type="TXT">
+               <title>Výběr pracovníků je důležitou personální činností pro každou organizaci, ale mimořádně důležitý je pečlivý výběr pracovníků v malých firmách. Zvažte, proč tomu tak je právě v nich.</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="280" type="TXT">
+               <title>Jaký postup byste zvolili a které metody výběru použili při výběru na pracovní místo a) provozního inženýra, b) elektrikáře, c) skladníka, d) kuchařky do závodní jídelny? </title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="281" type="TXT">
+               <title>Ředitel podniku je přesvědčen, že je třeba používat jako hlavní metodu výběru pracovníků psychologické testy. Jak byste argumentovali proti tomuto jeho přesvědčení a co byste mu doporučili jako rozhodující metodu výběru pracovníků a proč?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="282" type="MofN">
+               <title>Jak byste charakterizovali používané metody výběru pracovníků?</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="283">
+                         <title>všechny běžně používané jsou plně spolehlivé a validní</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="284">
+                         <title>některé běžně používané jsou plně spolehlivé a validní, jiné nikoliv</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="285" right="yes">
+                         <score>2</score>
+                         <title>všechny běžně používané jsou málo spolehlivé a validní</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="286" type="MofN">
+               <title>Mezi metodami výběru pracovníků jsou některé, které bychom měli použít vždy. Patří mezi ně:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="287">
+                         <title>testy pracovní způsobilosti</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="288" right="yes">
+                         <score>1</score>
+                         <title>výběrový pohovor</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="289" right="yes">
+                         <score>1</score>
+                         <title>zkoumání dokumentů předložených uchazečem</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="290" type="MofN">
+               <title>Některé používané metody výběru pracovníků mají nulovou nebo nule se blížící spolehlivost a validitu. Patří mezi ně:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="291">
+                         <title>testy inteligence</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="292" right="yes">
+                         <score>1</score>
+                         <title>grafologické testy</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="293" right="yes">
+                         <score>1</score>
+                         <title>typologické (frenologické) metody</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="294" type="MofN">
+               <title>Assessment centre je anglický výraz, který se u nás již vžil. Kdybyste jej však měli nahradit nějakým českým výrazem, nejlépe by jeho podstatu vystihoval výraz:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="295">
+                         <title>hodnotící středisko</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="296" right="yes">
+                         <score>2</score>
+                         <title>diagnostický program</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="297">
+                         <title>vyhodnocovací zařízení</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="298" type="MofN">
+               <title>Nejvhodnější metodou výběru při obsazování nižších manažerských funkcí z řad čerstvých absolventů škol je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="299">
+                         <title>assessment centre</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="300" right="yes">
+                         <score>2</score>
+                         <title>výběrový pohovor</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="301">
+                         <title>testy inteligence</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="302" type="MofN">
+               <title>Nejlepší typ výběrového pohovoru je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="303">
+                         <title>strukturovaný pohovor 1 + 1</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="304">
+                         <title>strukturovaný pohovor před panelem</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="305" right="yes">
+                         <score>2</score>
+                         <title>polostrukturovaný pohovor před panelem</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="306">
+                         <title>postupný strukturovaný pohovor 1 + 1</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="307" type="TXT">
+               <title>Čím byste argumentovali, kdybyste chtěli ve své organizaci prosadit koncepci řízení pracovního výkonu?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="308" type="TXT">
+               <title>Formální, systematické hodnocení pracovníků přináší organizaci řadu výhod. Zvažte, jaké výhody může přinést toto hodnocení samotným pracovníkům.</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="309" type="TXT">
+               <title>Která metoda hodnocení pracovníků je pravděpodobně nejuniverzálnější, využitelná a přijatelná pro všechny strany, které se na hodnocení podílejí, a tedy nejvhodnější?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="310" type="TXT">
+               <title>Jak byste připravili hodnotící rozhovor?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="311" type="TXT">
+               <title>Zamyslete se nad tím, jakých chyb hodnocení byste se asi při své povaze dopouštěli.</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="312" type="TXT">
+               <title>Na co byste se měli zaměřit při prověřování efektivnosti systému hodnocení pracovníků?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="313" type="MofN">
+               <title>Hodnocení pracovníků se zabývá zjišťováním toho,</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="314" right="yes">
+                         <score>2</score>
+                         <title>jak pracovník vykonává svou práci</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="315">
+                         <title>jakou má pracovník kvalifikaci</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="316">
+                         <title>jak je jeho práce náročná</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="317" type="MofN">
+               <title>Bez hodnocení pracovníků nelze efektivně provádět následující personální činnosti:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="318">
+                         <title>přijímání pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="319">
+                         <title>orientaci pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="320" right="yes">
+                         <score>2</score>
+                         <title>vzdělávání pracovníků</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="321" type="MofN">
+               <title>Nejdůležitější fází hodnocení pracovníků je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="322">
+                         <title>zjišťování toho, jak pracovník vykonává svou práci</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="323" right="yes">
+                         <score>2</score>
+                         <title>hodnotící rozhovor</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="324">
+                         <title>hledání cest ke zlepšení</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="325" type="MofN">
+               <title>Důležitým prvkem řízení pracovního výkonu je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="326" right="yes">
+                         <score>1</score>
+                         <title>smlouva o pracovním výkonu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="327" right="yes">
+                         <score>1</score>
+                         <title>smlouva o vzdělávání a rozvoji</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="328">
+                         <title>pracovní smlouva</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="329" type="MofN">
+               <title>Řízení pracovního výkonu představuje integrovanější přístup. Integruje v sobě:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="330">
+                         <title>hodnocení pracovníků, získávání pracovníků a výběr pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="331">
+                         <title>hodnocení pracovníků, rozmísťování pracovníků a vzdělávání pracovníků</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="332" right="yes">
+                         <score>2</score>
+                         <title>hodnocení pracovníků, odměňování pracovníků a vzdělávání pracovníků</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="333" type="TXT">
+               <title>Proč je vzdělávání pracovníků zabezpečované organizací v současné době tak důležité?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="334" type="TXT">
+               <title>Zvažte, proč v průběhu 90. let došlo k dosti podstatnému omezování prostředků i času vynaloženého na vzdělávání pracovníků v českých organizacích a proč to bylo výraznější u administrativních a manuálních pracovníků.</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="335" type="TXT">
+               <title>Organizace pro vzdělávání svých pracovníků občas využívají komerční externí vzdělávací instituce. Čím by se měly řídit při jejich výběru?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="336" type="TXT">
+               <title>Manažer určitého podniku se na vás obrátil se žádostí, abyste mu poradili s analýzou efektivnosti vzdělávání pro jeho podnik. Chtěl by přitom vědět, jaký efekt vyjádřený v korunách bude mít jedna koruna investovaná do vzdělávání pracovníků. Co byste mu odpověděli?</title>
+               <comment/>
+               <txtscore>2</txtscore>
+               <allowtxtinput>true</allowtxtinput>
+               <image/>
+               <response ident=""/>
+          </question>
+          <question finaltest="true" ident="337" type="MofN">
+               <title>Nejdůležitější personální činností v 21. století je vzdělávání a rozvoj pracovníků. Je tomu tak proto, že:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="338" right="yes">
+                         <score>1</score>
+                         <title>zabezpečuje organizaci pracovní sílu představující konkurenční výhodu</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="339">
+                         <title>zabezpečuje zdravé mezilidské vztahy v organizaci</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="340" right="yes">
+                         <score>1</score>
+                         <title>zabezpečuje, že bude organizace atraktivním zaměstnavatelem</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="341" type="MofN">
+               <title>Podnikové vzdělávání pracovníků se zaměřuje na:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="342" right="yes">
+                         <score>1</score>
+                         <title>doškolování</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="343" right="yes">
+                         <score>1</score>
+                         <title>orientaci</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="344">
+                         <title>přípravu učňů na dělnická povolání</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="345" type="MofN">
+               <title>Jednou z fází systematického podnikového vzdělávání pracovníků je:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="346">
+                         <title>návrh rozpočtu vzdělávání</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="347">
+                         <title>návrh programu vzdělávání</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="348" right="yes">
+                         <score>2</score>
+                         <title>identifikace potřeby vzdělávání</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="349" type="MofN">
+               <title>Mezi metody používané ke vzdělávání mimo pracoviště patří:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="350">
+                         <title>counselling</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="351" right="yes">
+                         <score>1</score>
+                         <title>workshop</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="352" right="yes">
+                         <score>1</score>
+                         <title>adventure education</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="353" type="MofN">
+               <title>V poslední době se v personalistice používají termíny &quot;rozvoj pracovníků&quot; a &quot;rozvoj lidských zdrojů&quot;.</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="354">
+                         <title>je to totéž</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="355" right="yes">
+                         <score>2</score>
+                         <title>rozvojem pracovníků se rozumí rozvoj jedinců a rozvojem lidských zdrojů rozvoj kolektivní pracovní síly</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="356">
+                         <title>rozvojem pracovníků se rozumí rozvoj kolektivní pracovní síly a rozvojem lidských zdrojů rozvoj jedinců</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+          <question finaltest="true" ident="357" type="MofN">
+               <title>Vzdělávání pracovníků v progresivních organizacích se vyznačuje tím, že:</title>
+               <comment>Vyberte všechna správná řešení z nabídky odpovědí.</comment>
+               <txtscore>0</txtscore>
+               <image/>
+               <response ident="">
+                    <response_item ident="358" right="yes">
+                         <score>2</score>
+                         <title>jde stále více o vzdělávání na pracovišti při výkonu práce</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="359">
+                         <title>jde stále více o vzdělávání mimo pracoviště</title>
+                         <feedback/>
+                    </response_item>
+                    <response_item ident="360">
+                         <title>jde u manažerů o vzdělávání mimo pracoviště a u manuálních pracovníků o vzdělávání na pracovišti</title>
+                         <feedback/>
+                    </response_item>
+               </response>
+          </question>
+     </section>
+</test>
