@@ -74,6 +74,7 @@
 					<!-- add input box for the correct answer -->
 					<div th:switch="${question.type}">
 						<span th:case="'FIB'"><input type="text" th:attr="name='response-s' + ${section.ident} + 'q' + ${question.ident} + ''" /></span>
+						<span th:case="'TXT'"><input type="text" th:attr="name='response-s' + ${section.ident} + 'q' + ${question.ident} + ''" /></span>
 					</div>
 	
 					<div th:each="response : ${question.responses}">
@@ -83,6 +84,9 @@
 							<span th:case="'FIB'" th:attr="name='hiddenResponse-s' + ${section.ident} + ''" style="visibility:hidden"><input type="radio" th:attr="name='field-s' + ${section.ident} + 'q' + ${question.ident} + ''" th:value="${response.ident}" /> <span th:text="${response.title}" class="label label-success">No title</span></span>
 							<span th:case="*">Unknown question type!</span>
 						</p>
+					</div>
+					<div th:if="${#lists.isEmpty(question.responses)}">
+						<span th:attr="name='hiddenResponse-s' + ${section.ident} + ''" style="visibility:hidden" class="label label-warning">The correct response is not available!</span>
 					</div>
 				</div>
 			</div>
