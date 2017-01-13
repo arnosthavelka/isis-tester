@@ -4,6 +4,8 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collection;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cache.annotation.Cacheable;
@@ -18,6 +20,11 @@ import com.github.aha.isis.tester.dto.IsisTestDTO;
 @Service
 public class TestManager {
 	
+    /**
+     * Class logger
+     */
+    private static final Logger LOG = LoggerFactory.getLogger(TestManager.class);
+
     @Value("${data.xml.path}")
     private String xmlPath;
     
@@ -27,8 +34,9 @@ public class TestManager {
     @Autowired
 	private XmlMarshaller xmlMarshaller;	
 	
-//	@Cacheable("menu")
+	@Cacheable("menu")
 	public Collection<String> getTests() {
+		LOG.debug("Loading available XML tests ...");
 		Collection<String> items = new ArrayList<>();
 		
 		Resource[] resources;
@@ -48,8 +56,8 @@ public class TestManager {
 
 	@Cacheable("tests")
 	public IsisTestDTO loadData(String testID) {
-		// add file extension to match XML file4
-		IsisTestDTO dto = (IsisTestDTO) this.xmlMarshaller.loadXML(String.format("%s.xml", testID));
+		// add file extension to match XML file
+		IsisTestDTO dto = (IsisTestDTO) this.xmlMarshaller.loadXML(String.format("%s/%s.xml", xmlPath, testID));
 		return dto;
 	}
 
