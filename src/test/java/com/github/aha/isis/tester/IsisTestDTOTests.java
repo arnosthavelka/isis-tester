@@ -8,6 +8,7 @@ import org.junit.runner.RunWith;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.util.CollectionUtils;
@@ -27,15 +28,19 @@ public class IsisTestDTOTests {
      */
     private static final Logger LOG = LoggerFactory.getLogger(IsisTestDTOTests.class);
     
-	private static final String FILE_NAME = "3PA541_test.xml";
+	private static final String TEST_541 = "3PA541";
 	
+    @Value("${data.xml.path}")
+    private String xmlPath;
+    
 	@Autowired
 	private XmlMarshaller xmlMarshaller;	
 	
 	@Test
 	public void loadXML() throws IOException {
 		long startTime = System.currentTimeMillis();
-		IsisTestDTO dto = (IsisTestDTO) this.xmlMarshaller.loadXML(FILE_NAME);
+		String fileName = String.format("%s/%s.xml", xmlPath, TEST_541);
+		IsisTestDTO dto = (IsisTestDTO) this.xmlMarshaller.loadXML(fileName);
         LOG.debug("comment={}, loading={}ms" , dto.getComment(), System.currentTimeMillis() - startTime);
         if (!CollectionUtils.isEmpty(dto.getSections())) {
         	LOG.debug("no. of params={}" , dto.getSections().size());
