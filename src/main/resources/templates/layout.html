@@ -13,12 +13,16 @@
 		<nav class="navbar navbar-inverse">
 		  <div class="container-fluid">
 		    <div class="navbar-header">
-		    	<a class="navbar-brand" href="https://github.com/arnosthavelka/isis-tester">ISIS Tester</a>
+		    	<a class="navbar-brand" th:href="@{/}">ISIS Tester</a>
 		    </div>
+		    <ul class="nav navbar-nav">
+				<li><a th:href="@{/test/3PA541}" >3PA541</a></li>
+				<li><a th:href="@{/test/3PA542}" >3PA542</a></li>
+				<li><a th:href="@{/test/3PA546}" >3PA546</a></li>
+			</ul>
 		    <ul class="nav navbar-nav navbar-right">
-				<li><a th:href="@{/test/3PA541}" > 3PA541</a></li>
-				<li><a th:href="@{/test/3PA542}" > 3PA542</a></li>
-				<li><a th:href="@{/test/3PA546}" > 3PA546</a></li>
+				<li><a href="https://insis.vse.cz/auth/" > ISIS</a></li>
+				<li><a href="https://github.com/arnosthavelka/isis-tester"> Github repo</a></li>
 		    </ul>
 		  </div>
 		</nav>
