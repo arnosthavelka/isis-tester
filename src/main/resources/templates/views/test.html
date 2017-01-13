@@ -38,7 +38,7 @@
 </head>
 <body>
 	<h2 layout:fragment="header" id="_top">Test : <span th:text="${dto.id}">XYZ</span></h2>
-	<div layout:fragment="content" class="container">
+	<div layout:fragment="content">
 		<span th:each="section,stat : ${dto.sections}">
 			<a th:attr="href='#section' + ${section.ident} + ''" th:text="${section.title}" >No text</a>
 			<!--/* eliminate delimiter after last item */-->
