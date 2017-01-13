@@ -39,21 +39,22 @@
 <body>
 	<h2 layout:fragment="header" id="_top">Test : <span th:text="${dto.id}">XYZ</span></h2>
 	<div layout:fragment="content">
-		<span th:each="section,stat : ${dto.sections}">
-			<a th:attr="href='#section' + ${section.ident} + ''" th:text="${section.title}" >No text</a>
-			<!--/* eliminate delimiter after last item */-->
-			<span th:if="${stat.index &lt; stat.size-1}"> | </span>
-		</span>
+		<p>
+			<strong>Content:</strong><br/>
+			<span th:each="section,stat : ${dto.sections}">
+				<a th:attr="href='#section' + ${section.ident} + ''" th:text="${section.title}" >No text</a>
+				<!--/* eliminate delimiter after last item */-->
+				<span th:if="${stat.index &lt; stat.size-1}"> | </span>
+			</span>
+		</p>
 		<!-- evaluation hints -->
-		<div class="panel panel-default">
-			<div class="panel-heading">Evaluation hints</div>
-			<div class="panel-body">
-				<span class="label label-success">OK</span> - the correct answer was selected<br/>
-				<span class="label label-warning">Bad</span> - the correct answer was not selected<br/>
-				<span class="label label-danger">Bad</span> - the wrong answer was selected<br/>
-				<span class="label label-default">OK</span> -  the correct answer was not selected
-			</div>
-		</div>
+		<p>
+			<strong>Evaluation hints:</strong><br/>
+			<span class="label label-success">OK</span> - the correct answer was selected
+			<span class="label label-warning">Bad</span> - the correct answer was not selected
+			<span class="label label-danger">Bad</span> - the wrong answer was selected
+			<span class="label label-default">OK</span> -  the correct answer was not selected
+		</p>
 		<!-- sections -->
 		<div th:each="section : ${dto.sections}" class="panel panel-default">
 			<div class="panel-heading">
