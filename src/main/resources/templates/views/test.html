@@ -33,6 +33,9 @@
 	        	x[i].style.visibility = "visible";
 	        }	        
 		}
+		function resetForm(sectionIdent) {
+	        document.getElementById('form' + sectionIdent).reset();
+		}		
 		/*]]>*/
 	</script>
 </head>
@@ -57,42 +60,45 @@
 		</p>
 		<!-- sections -->
 		<div th:each="section : ${dto.sections}" class="panel panel-default">
-			<div class="panel-heading">
-				<h3 th:attr="id='section' + ${section.ident} + ''"><span th:text="${section.title}">No title</span></h3>
-				<button type="button" class="btn btn-primary" th:onclick="'javascript:showResults(' + ${section.ident} + ')'">Evaluate</button>
-				<a href="#_top"><span class="glyphicon glyphicon-upload"></span></a>
-				Min. score:<span th:text="${section.minScore}">No min. score</span>, 
-				Time limit:<span th:text="${section.timeLimit}">No time limit</span>,
-				Questions: <span th:text="${#lists.size(section.questions)}">No question</span>
-			</div>
-
-			<div class="panel-body">			
-				<div th:each="question : ${section.questions}">
-					<h3 class="alert alert-warning"><span th:text="${question.title}">No title</span></h3>
-					<em th:text="${question.comment}">No comment</em>
-
-					<!-- add input box for the correct answer -->
-					<div th:switch="${question.type}">
-						<span th:case="'FIB'"><input type="text" th:attr="name='response-s' + ${section.ident} + 'q' + ${question.ident} + ''" /></span>
-						<span th:case="'TXT'"><input type="text" th:attr="name='response-s' + ${section.ident} + 'q' + ${question.ident} + ''" /></span>
-					</div>
+			<form th:attr="id='form' + ${section.ident} + ''" action="return false;">
+				<div class="panel-heading">
+					<h3 th:attr="id='section' + ${section.ident} + ''"><span th:text="${section.title}">No title</span></h3>
+					<button type="button" class="btn btn-primary" th:onclick="'javascript:showResults(' + ${section.ident} + ')'">Evaluate</button>
+					<a th:attr="href='#section' + ${section.ident} + ''" th:onclick="'javascript:resetForm(' + ${section.ident} + ')'"><span class="glyphicon glyphicon-repeat"></span></a>
+					<a href="#_top"><span class="glyphicon glyphicon-upload"></span></a>
+					Min. score:<span th:text="${section.minScore}">No min. score</span>, 
+					Time limit:<span th:text="${section.timeLimit}">No time limit</span>,
+					Questions: <span th:text="${#lists.size(section.questions)}">No question</span>
+				</div>
 	
-					<div th:each="response : ${question.responses}">
-						<p th:switch="${question.type}">
-							<span th:case="'1ofN'"><input type="radio" th:attr="name='response-s' + ${section.ident} + 'q' + ${question.ident} + ''" th:value="${response.ident}" th:class="${response.right == 'yes' ? 'rightAnswer' : ''}" /> <span th:text="${response.title}">No title</span></span>
-							<span th:case="'MofN'"><input type="checkbox" th:attr="name='response-s' + ${section.ident} + 'q' + ${question.ident} + ''" th:value="${response.ident}" th:class="${response.right == 'yes' ? 'rightAnswer' : ''}" /> <span th:text="${response.title}">No title</span></span>
-							<span th:case="'FIB'" th:attr="name='hiddenResponse-s' + ${section.ident} + ''" style="visibility:hidden"><input type="radio" th:attr="name='field-s' + ${section.ident} + 'q' + ${question.ident} + ''" th:value="${response.ident}" /> <span th:text="${response.title}" class="label label-success">No title</span></span>
-							<span th:case="*">Unknown question type!</span>
-						</p>
-					</div>
-					<div th:if="${#lists.isEmpty(question.responses)}">
-						<span th:attr="name='hiddenResponse-s' + ${section.ident} + ''" style="visibility:hidden" class="label label-warning">The correct response is not available!</span>
+				<div class="panel-body">			
+					<div th:each="question : ${section.questions}">
+						<h3 class="alert alert-warning"><span th:text="${question.title}">No title</span></h3>
+						<em th:text="${question.comment}">No comment</em>
+	
+						<!-- add input box for the correct answer -->
+						<div th:switch="${question.type}">
+							<span th:case="'FIB'"><input type="text" th:attr="name='response-s' + ${section.ident} + 'q' + ${question.ident} + ''" /></span>
+							<span th:case="'TXT'"><input type="text" th:attr="name='response-s' + ${section.ident} + 'q' + ${question.ident} + ''" /></span>
+						</div>
+		
+						<div th:each="response : ${question.responses}">
+							<p th:switch="${question.type}">
+								<span th:case="'1ofN'"><input type="radio" th:attr="name='response-s' + ${section.ident} + 'q' + ${question.ident} + ''" th:value="${response.ident}" th:class="${response.right == 'yes' ? 'rightAnswer' : ''}" /> <span th:text="${response.title}">No title</span></span>
+								<span th:case="'MofN'"><input type="checkbox" th:attr="name='response-s' + ${section.ident} + 'q' + ${question.ident} + ''" th:value="${response.ident}" th:class="${response.right == 'yes' ? 'rightAnswer' : ''}" /> <span th:text="${response.title}">No title</span></span>
+								<span th:case="'FIB'" th:attr="name='hiddenResponse-s' + ${section.ident} + ''" style="visibility:hidden"><input type="radio" th:attr="name='field-s' + ${section.ident} + 'q' + ${question.ident} + ''" th:value="${response.ident}" /> <span th:text="${response.title}" class="label label-success">No title</span></span>
+								<span th:case="*">Unknown question type!</span>
+							</p>
+						</div>
+						<div th:if="${#lists.isEmpty(question.responses)}">
+							<span th:attr="name='hiddenResponse-s' + ${section.ident} + ''" style="visibility:hidden" class="label label-warning">The correct response is not available!</span>
+						</div>
 					</div>
 				</div>
-			</div>
-			<div class="panel-footer">
-				<button type="button" class="btn btn-primary" th:onclick="'javascript:showResults(' + ${section.ident} + ')'">Evaluate</button>
-			</div>
+				<div class="panel-footer">
+					<button type="button" class="btn btn-primary" th:onclick="'javascript:showResults(' + ${section.ident} + ')'">Evaluate</button>
+				</div>
+			</form>
 		</div>
 	</div>
 </body>
