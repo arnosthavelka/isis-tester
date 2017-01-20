@@ -24,11 +24,11 @@
 	</properties>
 
 	<dependencies>
-		<!-- DevTools to make changes immediately available >
+		<!-- DevTools to make changes immediately available -->
 	    <dependency>
 	        <groupId>org.springframework.boot</groupId>
 	        <artifactId>spring-boot-devtools</artifactId>
-	    </dependency-->
+	    </dependency>
     	<!-- UI -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>

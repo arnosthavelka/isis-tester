@@ -1,6 +1,10 @@
 package com.github.aha.isis.tester.service;
 
+import java.io.ByteArrayInputStream;
+import java.io.ByteArrayOutputStream;
 import java.io.IOException;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
 import java.util.ArrayList;
 import java.util.Collection;
 
@@ -9,6 +13,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cache.annotation.Cacheable;
+import org.springframework.core.ConfigurableObjectInputStream;
 import org.springframework.core.io.Resource;
 import org.springframework.core.io.ResourceLoader;
 import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
@@ -57,8 +62,48 @@ public class TestManager {
 	@Cacheable("tests")
 	public IsisTestDTO loadData(String testID) {
 		// add file extension to match XML file
-		IsisTestDTO dto = (IsisTestDTO) this.xmlMarshaller.loadXML(String.format("%s/%s.xml", xmlPath, testID));
+		Object dtoObject = this.xmlMarshaller.loadXML(String.format("%s/%s.xml", xmlPath, testID));
+		// necessary to do additional serialization/deserialization due to
+		// java.lang.ClassCastException: com.github.aha.isis.tester.dto.IsisTestDTO cannot be cast to com.github.aha.isis.tester.dto.IsisTestDTO
+		// caused by usage of 2 classloader by devops library 
+		byte[] data = serializeDTO(dtoObject);
+		IsisTestDTO dto = deserializeDTO(data);
 		return dto;
+	}
+
+	private IsisTestDTO deserializeDTO(byte[] data) {
+		IsisTestDTO dto = null;
+		try {
+			ByteArrayInputStream fileIn = new ByteArrayInputStream(data);
+			ObjectInputStream in = new ConfigurableObjectInputStream(fileIn,
+					Thread.currentThread().getContextClassLoader());
+			dto = (IsisTestDTO) in.readObject();
+			in.close();
+			fileIn.close();
+		} catch (Exception e) {
+			String msg = "Deserialization of marshalled XML failed!";
+			LOG.error(msg, e);
+			throw new RuntimeException(msg, e);
+		}
+		return dto;
+	}
+	
+	private byte[] serializeDTO(Object dtoObject) {
+		byte[] result = null;
+		try {
+			ByteArrayOutputStream data = new ByteArrayOutputStream();
+			ObjectOutputStream out = new ObjectOutputStream(data);
+			out.writeObject(dtoObject);
+			out.close();
+			result = data.toByteArray();
+			data.close();
+		} catch (IOException e) {
+			String msg = "Serialization of marshalled XML failed!";
+			LOG.error(msg, e);
+			throw new RuntimeException(msg, e);
+		}
+
+		return result;
 	}
 
 }
