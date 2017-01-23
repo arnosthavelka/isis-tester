@@ -22,9 +22,13 @@
 		    <ul class="nav navbar-nav navbar-right">
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span th:text="#{app.lang}">No message defined</span> <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a th:href="@{/?lang=en}">EN</a></li>
-            <li><a th:href="@{/?lang=cs}">CS</a></li>
+          <!--/*
+          	Customization of language action URL (the params are not considered now)
+          	http://stackoverflow.com/questions/27623405/thymeleaf-add-parameter-to-current-url 
+          */-->
+          <ul class="dropdown-menu" th:with="currentUrl=(${#httpServletRequest.requestURI})">
+            <li><a th:href="@{${currentUrl}(lang=en)}">EN</a></li>
+            <li><a th:href="@{${currentUrl}(lang=cs)}">CS</a></li>
           </ul>
         </li>		    
 				<li><a href="https://insis.vse.cz/auth/" > ISIS</a></li>
