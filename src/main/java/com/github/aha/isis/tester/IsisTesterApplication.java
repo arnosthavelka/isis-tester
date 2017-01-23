@@ -12,11 +12,14 @@ import org.springframework.context.support.ResourceBundleMessageSource;
 import org.springframework.core.io.ResourceLoader;
 import org.springframework.oxm.castor.CastorMarshaller;
 import org.springframework.web.servlet.LocaleResolver;
+import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
+import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
+import org.springframework.web.servlet.i18n.LocaleChangeInterceptor;
 import org.springframework.web.servlet.i18n.SessionLocaleResolver;
 
 @SpringBootApplication
 @EnableCaching
-public class IsisTesterApplication {
+public class IsisTesterApplication extends WebMvcConfigurerAdapter {
 
 	public static void main(String[] args) {
 		SpringApplication.run(IsisTesterApplication.class, args);
@@ -48,5 +51,12 @@ public class IsisTesterApplication {
         SessionLocaleResolver slr = new SessionLocaleResolver();
         slr.setDefaultLocale(Locale.forLanguageTag("cs"));
         return slr;
-    }    
+    }
+    
+    @Override
+    public void addInterceptors(InterceptorRegistry registry) {
+		LocaleChangeInterceptor interceptor = new LocaleChangeInterceptor();
+		interceptor.setParamName("lang");
+		registry.addInterceptor(interceptor);
+    }
 }

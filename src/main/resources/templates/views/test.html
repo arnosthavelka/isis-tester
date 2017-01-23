@@ -3,7 +3,7 @@
 	xmlns:layout="http://www.ultraq.net.nz/web/thymeleaf/layout"
 	layout:decorator="layout">
 <head>
-	<title>Test evaluation</title>
+	<title th:text="#{app.title} + ' - ' +  #{test.title(${dto.id})}">Test page</title>
 	<script type="text/javascript">
 		/*<![CDATA[*/
 		function showResults(sectionIdent) {
@@ -40,7 +40,7 @@
 	</script>
 </head>
 <body>
-	<h2 layout:fragment="header" id="_top">Test : <span th:text="${dto.id}">XYZ</span></h2>
+	<h2 layout:fragment="header" id="_top" th:text="#{test.title(${dto.id})}"/>
 	<div layout:fragment="content">
 		<p>
 			<strong>Content:</strong><br/>
